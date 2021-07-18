@@ -41,7 +41,7 @@
 @import "print";
 
 html {
-  font-size: 16px; // change to whatever
+  font-size: 10px; // change to whatever
 
   @include breakpoint($medium) {
     font-size: 18px; // change to whatever
