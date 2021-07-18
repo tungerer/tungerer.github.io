@@ -41,13 +41,13 @@
 @import "print";
 
 html {
-  margin-left: 20%; 
-  margin-right: 20%; 
+  margin-left: 15%; 
+  margin-right: 15%; 
   
-  font-size: 12px; // change to whatever
+  font-size: 14px; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 12px; // change to whatever
+    font-size: 14px; // change to whatever
   }
 
   @include breakpoint($large) {
