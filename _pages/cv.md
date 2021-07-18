@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,10 @@ redirect_from:
   - /cv.html
 ---
 
-Education
-======
+
 * 2018-now: PhD Linguistics and English Language (in progress), University of Edinburgh
   * Working title: "Structural priming in the grammatical network – A study of English argument structure constructions" (supervised by Prof Graeme Trousdale, Prof Nikolas Gisborne, and Dr Chris Cummins)
-  * Feb-March 2020: Research visit to <a href="https://adele.princeton.edu/">Prof Adele Goldberg's lab</a> at Princeton University
+  * Feb-March 2020: Research visit to Prof Adele Goldberg's lab at Princeton University
 * 2017-2018: MSc Linguistics (with distinction), University of Edinburgh
   * MSc dissertation: "Priming as evidence of links between constructions: A study of aspects of the English resultative network" (supervised by Graeme Trousdale)
 * 2012-2019: Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University
