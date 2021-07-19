@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a PhD student in Linguistics and English Language at the <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language">University of Edinburgh</a>. My work focuses on theoretical and experimental approaches to speakers' grammatical knowledge &ndash; in particular, the idea that grammar forms a mental network of interrelated constructions.
+I'm a PhD student in Linguistics and English Language at the <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language">University of Edinburgh</a>. My work focuses on theoretical and experimental approaches to speakers' grammatical knowledge &ndash; in particular, the idea that grammar forms a mental network of interrelated constructions.
 
-In my PhD project (supervised by <a href="https://www.ed.ac.uk/profile/graeme-trousdale">Graeme Trousdale</a> , <a href="https://www.ed.ac.uk/profile/nikolas-gisborne">Nik Gisborne</a> and <a href="https://www.ed.ac.uk/profile/chris-cummins">Chris Cummins</a>), I investigate how psycholinguistic evidence from structural priming can inform cognitive-linguistic models of the grammatical network (e.g., in Construction Grammar). Specifically, my focus is on similarity relations between argument structure constructions, including some phenomena that have been rarely studied with priming (e.g., the English caused-motion and the resultative construction - see my <a href="https://doi.org/10.1515/cog-2020-0016">recent paper</a>).
+In my PhD project (supervised by <a href="https://www.ed.ac.uk/profile/graeme-trousdale">Graeme Trousdale</a> , <a href="https://www.ed.ac.uk/profile/nikolas-gisborne">Nik Gisborne</a> and <a href="https://www.ed.ac.uk/profile/chris-cummins">Chris Cummins</a>), I investigate how psycholinguistic evidence from structural priming can inform cognitive-linguistic models of the grammatical network (e.g., in Construction Grammar). More specifically, my focus is on similarity relations between argument structure constructions, including some phenomena that have been rarely studied with priming (e.g., the English caused-motion and the resultative construction - see my <a href="https://doi.org/10.1515/cog-2020-0016">recent paper</a>).
 
 Other topics that I'm interested in include:
 <ul>
