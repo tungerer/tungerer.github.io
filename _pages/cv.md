@@ -23,6 +23,10 @@ Education
 Teaching
 ======
 * See <a href="https://tungerer.github.io/teaching/">here</a>
+
+Publications and talks
+======
+* See <a href="https://tungerer.github.io/publications/">here for publications</a> and <a href="https://tungerer.github.io/talks/">here for talks</a>
   
 Organising work
 ======
