@@ -23,7 +23,7 @@ Stefan Hartmann &amp; <b>Ungerer, Tobias</b> (2020, 25-27 Nov): Why pink is the 
 1. <b>Ungerer, Tobias</b> &amp; Stefan Hartmann (2020, 27-29 July): Attack of the snowclones. A corpus-based analysis of extravagant formulaic patterns. UK Cognitive Linguistics Conference 2020 (UKCLC). Birmingham, UK (virtual conference).
 1. <b>Ungerer, Tobias</b> (2019, 21-24 Aug): Using structural priming to test links between constructions: Priming between caused-motion and resultatives sentences. 52nd Annual Meeting of the Societas Linguistica Europaea (SLE). Leipzig, Germany. (<a href="https://sle2019.eu/downloads/SLE%202019%20BOOK%20OF%20ABSTRACTS.pdf#page=498">Abstract</a>)
 1. <b>Ungerer, Tobias</b> (2019, 6-11 Aug): Using structural priming to test links between constructions: Priming between caused-motion and resultatives sentences. 15th International Cognitive Linguistics Conference (ICLC). Nishinomiya, Japan. (<a href="https://iclc2019.site/wp-content/uploads/abstracts/construction/ICLC-15_paper_317.pdf">Abstract</a>)
-1. <b>Ungerer, Tobias</b> (2019): The concept of ‘inheritance’ in grammatical theory – What is it and which questions does it raise? 25th Linguistics and English Language Postgraduate Conference (LELPGC). Edinburgh, UK. 4-7 June.
+1. <b>Ungerer, Tobias</b> (2019, 4-7 June): The concept of ‘inheritance’ in grammatical theory – What is it and which questions does it raise? 25th Linguistics and English Language Postgraduate Conference (LELPGC). Edinburgh, UK.
 
 
 
