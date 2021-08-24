@@ -9,12 +9,12 @@ redirect_from:
 
 Upcoming talks
 ======
-1. <b>Ungerer, Tobias</b> (2021, 18-20 Aug): Vertical and horizontal links in constructional networks – two sides of the same coin? 11th International Conference on Construction Grammar (ICCG). Antwerp, Belgium.
-1. Hartmann, Stefan &amp; <b>Tobias Ungerer</b> (2021, 18-20 Aug): The mother of all constructions: A corpus-based approach to the productivity of ‘snowclones’. 11th International Conference on Construction Grammar (ICCG). Antwerp, Belgium.
 1. <b>Ungerer, Tobias</b> (2022, 2-5 March): Constructional families in the laboratory – A plea for novel experimental approaches to the study of constructional relations. 9th International Conference of the German Cognitive Linguistics Association (GCLA). Erfurt, Germany.
 
 Talks delivered
 ======
+1. <b>Ungerer, Tobias</b> (2021, 18-20 Aug): Vertical and horizontal links in constructional networks – two sides of the same coin? 11th International Conference on Construction Grammar (ICCG). Antwerp, Belgium.
+1. Hartmann, Stefan &amp; <b>Tobias Ungerer</b> (2021, 18-20 Aug): The mother of all constructions: A corpus-based approach to the productivity of ‘snowclones’. 11th International Conference on Construction Grammar (ICCG). Antwerp, Belgium.
 1. <b>Ungerer, Tobias</b> (2021, 10-12 June): Probing the grammatical network with structural priming. Linguistics and English Language Postgraduate Conference. Edinburgh (virtual conference).
 1. <b>Ungerer, Tobias</b> (2021, 14 May): Network science methods - a potential toolkit for cognitive linguistics?  Cognitive Linguistics Research Group. Edinburgh.
 1. <b>Ungerer, Tobias</b> (2021, 10 Feb): Structural priming meets Construction Grammar: Using priming to explore networks of constructions. Psycholinguistics Coffee (research seminar). Edinburgh.
