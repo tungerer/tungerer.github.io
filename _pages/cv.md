@@ -15,7 +15,7 @@ Education
   * Working title: "Structural priming in the grammatical network – A study of English argument structure constructions" (supervised by Prof Graeme Trousdale, Prof Nikolas Gisborne, and Dr Chris Cummins)
   * Feb-March 2020: Research visit to Prof Adele Goldberg's lab at Princeton University
 * 2017-2018: MSc Linguistics (with distinction), University of Edinburgh
-  * MSc dissertation: "Priming as evidence of links between constructions: A study of aspects of the English resultative network" (supervised by Graeme Trousdale)
+  * MSc dissertation: "Priming as evidence of links between constructions: A study of aspects of the English resultative network" (supervised by Prof Graeme Trousdale)
 * 2012-2019: Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University
   * BA thesis: "Mediopassives in English – A cognitive empirical approach" (supervised by Prof Doris Schönefeld)
   * 2014-15: Study year abroad at the University of Cambridge
@@ -42,6 +42,7 @@ Grants and awards
 * 2019-2021: Research Support Grants (multiple), University of Edinburgh
 * 2019: Go Abroad Fund, University of Edinburgh
 * 2018: PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh
-* 2014-2015: Erasmus+ scholarship for a study year abroad
+* 2017: Scholarship for a three-month internship abroad (at the Goethe-Institut Tokyo), German Academic Exchange Service (DAAD)
+* 2014-2015: Erasmus+ scholarship for a study year abroad (at the University of Cambridge)
 * 2012-2019: Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>)
   
