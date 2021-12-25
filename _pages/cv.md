@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * 2018-now: PhD Linguistics and English Language (in progress), University of Edinburgh
+  * Planned completion: spring 2022
   * Working title: "Structural priming in the grammatical network – A study of English argument structure constructions" (supervised by Prof Graeme Trousdale, Prof Nikolas Gisborne, and Dr Chris Cummins)
   * Feb-March 2020: Research visit to Prof Adele Goldberg's lab at Princeton University
 * 2017-2018: MSc Linguistics (with distinction), University of Edinburgh
