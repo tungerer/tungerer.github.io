@@ -5,12 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+You can also find my publications on <a href="https://scholar.google.com/citations?user=me00LWEAAAAJ&hl=en">Google Scholar</a>.
+
+Doctoral dissertation
 ======
 
-You can also find my publications on <a href="https://scholar.google.com/citations?user=me00LWEAAAAJ&hl=en">Google Scholar</a>.
+1. <b>Ungerer, Tobias</b>. to be submitted in Jan 2022. Structural priming in the grammatical network: A study of English argument structure constructions. University of Edinburgh.
+
+
+Journal articles and reviews
+======
 
 1. <b>Ungerer, Tobias</b>. forthcoming. Review of "Nodes and networks in Diachronic Construction Grammar", ed. by Lotte Sommerer and Elena Smirnova. <i>Journal of Historical Linguistics</i>.
 1. <b>Ungerer, Tobias</b>. 2021. Using structural priming to test links between constructions: English caused-motion and resultative sentences inhibit each other. <i>Cognitive Linguistics</i> 32(3). 389-420. <a href="https://doi.org/10.1515/cog-2020-0016">https://doi.org/10.1515/cog-2020-0016</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author version</a> and the <a href="https://doi.org/10.18710/2YJITD">dataset</a>)
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann. 2020. Delineating extravagance: Assessing speakers’ perceptions of imaginative constructional patterns. <i>Belgian Journal of Linguistics</i> 34. 345–356. <a href="https://doi.org/10.1075/bjl.00058.ung">https://doi.org/10.1075/bjl.00058.ung</a> (see the <a href="https://doi.org/10.17605/OSF.IO/M4W52">dataset</a>)
+
+Preprints
+======
+
+1. Hartmann, Stefan, and <b>Tobias Ungerer</b>. 2021. Attack of the snowclones: A corpus-based analysis of extravagant formulaic patterns. PsyArXiv. https://doi.org/10.31234/osf.io/y6a8g (see the <a href="https://doi.org/10.31234/osf.io/y6a8g">preprint</a> and the <a href="https://github.com/hartmast/Attack_of_the_snowclones">dataset</a>)
 
