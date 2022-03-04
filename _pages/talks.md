@@ -9,7 +9,7 @@ redirect_from:
 
 Upcoming talks
 ======
-1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 19 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil. <a href="https://projeto-predicar.wixsite.com/predicar/programa%C3%A7%C3%A3o?lang=en">see here for programme and sign-up</a>
+1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 19 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil. (see <a href="https://projeto-predicar.wixsite.com/predicar/programa%C3%A7%C3%A3o?lang=en">here</a> for the programme and sign-up)
 
 Talks delivered
 ======

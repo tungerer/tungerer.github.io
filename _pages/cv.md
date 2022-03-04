@@ -19,7 +19,7 @@ Education
 * 2017-2018: MSc Linguistics (with distinction), University of Edinburgh
   * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
   * Supervisor: Prof Graeme Trousdale
-* 2014-15: Study year abroad at the University of Cambridge
+* 2014-15: Study year at the University of Cambridge via Erasmus+
 * 2012-2019: Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University
   * Thesis: "Mediopassives in English – A cognitive empirical approach"
   * Supervisor: Prof Doris Schönefeld
@@ -36,7 +36,7 @@ Admin experience
 ======
 * Member of the organising committee for the <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language/research/talks-and-reading-groups/linguistic-circle">Linguistic Circle</a>, University of Edinburgh
 * Co-organiser of the <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language/research/talks-and-reading-groups/cognitive-linguistics">Cognitive Linguistics Research Group</a>, University of Edinburgh
-* CMember of the organising committee for the <a href="https://pgc.lel.ed.ac.uk/archive/2019/">Linguistics and English Language Postgraduate Conference</a>,  University of Edinburgh (4-7 June, 2019)
+* Member of the organising committee for the <a href="https://pgc.lel.ed.ac.uk/archive/2019/">Linguistics and English Language Postgraduate Conference</a>,  University of Edinburgh (4-7 June, 2019)
 
 Awards
 ======
