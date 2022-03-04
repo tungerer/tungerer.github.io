@@ -28,6 +28,7 @@ Preprints
 Book reviews
 ======
 
-1. <b>Ungerer, Tobias</b>. forthcoming. Review of "Nodes and networks in Diachronic Construction Grammar", ed. by Lotte Sommerer and Elena Smirnova. <i>Journal of Historical Linguistics</i>.
+1. <b>Ungerer, Tobias</b>. 2022. Review of Sommerer & Smirnova (2020): Nodes and Networks in Diachronic Construction Grammar. <i>Journal of Historical Linguistics</i>. <a href="https://doi.org/10.1075/jhl.20045.ung">https://doi.org/10.1075/jhl.20045.ung</a>
+
 
 

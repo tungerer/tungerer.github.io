@@ -9,10 +9,11 @@ redirect_from:
 
 Upcoming talks
 ======
-1. <b>Ungerer, Tobias</b> (2022, 2-5 March): Constructional families in the laboratory: Novel experimental approaches to the study of constructional relations. 9th International Conference of the German Cognitive Linguistics Association (GCLA). Erfurt, Germany.
+1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 19 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil. <a href="https://projeto-predicar.wixsite.com/predicar/programa%C3%A7%C3%A3o?lang=en">see here for programme and sign-up</a>
 
 Talks delivered
 ======
+1. <b>Ungerer, Tobias</b> (2022, 1-4 March): Constructional families in the lab: Novel experimental approaches to the study of constructional relations. 9th International Conference of the German Cognitive Linguistics Association (GCLA). Erfurt, Germany.
 1. <b>Ungerer, Tobias</b> (2021, 18-20 August): Vertical and horizontal links in constructional networks – two sides of the same coin? 11th International Conference on Construction Grammar (ICCG). Antwerp, Belgium.
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2021, 18-20 Aug): The mother of all constructions: A corpus-based approach to the productivity of ‘snowclones’. 11th International Conference on Construction Grammar (ICCG). Antwerp, Belgium.
 1. <b>Ungerer, Tobias</b> (2021, 10-12 June): Probing the grammatical network with structural priming. Linguistics and English Language Postgraduate Conference. Edinburgh (virtual conference).
