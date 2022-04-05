@@ -10,6 +10,8 @@ redirect_from:
 Upcoming talks
 ======
 1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 19 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil. (see <a href="https://projeto-predicar.wixsite.com/predicar/programa%C3%A7%C3%A3o?lang=en">here</a> for the programme and sign-up)
+1. Hartmann, Stefan and <b>Tobias Ungerer</b> (2022, 27-30 July): Are snowclones the new normal? Using corpora to study extravagant formulaic patterns. 43rd Annual Conference of the International Computer Archive for Modern and Medieval English (ICAME). Cambridge, UK.
+1. Hartmann, Stefan, Jakob Neels and <b>Tobias Ungerer</b> (2022, 24-27 Aug): <i>A quantum of salience</i>: Reconsidering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea (SLE). Bucharest, Romania.
 
 Talks delivered
 ======
