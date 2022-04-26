@@ -9,9 +9,9 @@ redirect_from:
 
 Upcoming talks
 ======
-1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 19 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil. (see <a href="https://projeto-predicar.wixsite.com/predicar/programa%C3%A7%C3%A3o?lang=en">here</a> for the programme and sign-up)
 1. Hartmann, Stefan and <b>Tobias Ungerer</b> (2022, 27-30 July): Are snowclones the new normal? Using corpora to study extravagant formulaic patterns. 43rd Annual Conference of the International Computer Archive for Modern and Medieval English (ICAME). Cambridge, UK.
 1. Hartmann, Stefan, Jakob Neels and <b>Tobias Ungerer</b> (2022, 24-27 Aug): <i>A quantum of salience</i>: Reconsidering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea (SLE). Bucharest, Romania.
+1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 15-17 September): Are snowclones the new black? A corpus-based approach to extravagant formulaic patterns. 9th Biennial International Conference on the Linguistics of Contemporary English (BICLCE). Ljubljana, Slovenia.
 
 Talks delivered
 ======
@@ -28,7 +28,9 @@ Talks delivered
 1. <b>Ungerer, Tobias</b> (2019, 6-11 August): Using structural priming to test links between constructions: Priming between caused-motion and resultatives sentences. 15th International Cognitive Linguistics Conference (ICLC). Nishinomiya, Japan. (<a href="https://iclc2019.site/wp-content/uploads/abstracts/construction/ICLC-15_paper_317.pdf">Abstract</a>)
 1. <b>Ungerer, Tobias</b> (2019, 4-7 June): The concept of ‘inheritance’ in grammatical theory – What is it and which questions does it raise? 25th Linguistics and English Language Postgraduate Conference (LELPGC). Edinburgh, UK.
 
-
+Workshops delivered
+======
+1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 18-20 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil. (<a href="https://322d46dc-cb93-46d1-a46c-6c1409f575d3.filesusr.com/ugd/871c3f_8772c764ba824c7eb6991924a9e1836b.pdf">Abstract</a>)
 
 
 
