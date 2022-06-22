@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Tutoring at the University of Edinburgh (2018-2021):
+Tutoring at the University of Edinburgh (2018-2022):
 ======
 * Introduction to Cognitive Science (undergraduate)
 * Introduction to Language Research (Honours and MSc)

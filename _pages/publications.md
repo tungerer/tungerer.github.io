@@ -10,15 +10,17 @@ You can also find my publications on <a href="https://scholar.google.com/citatio
 PhD thesis
 ======
 
-<b>Ungerer, Tobias</b>. submitted. <i>Structural priming in the grammatical network: A study of English argument structure constructions.</i> University of Edinburgh.
+<b>Ungerer, Tobias</b>. 2022. <i>Structural priming in the grammatical network: A study of English argument structure constructions.</i> University of Edinburgh dissertation.
 
 
-Peer-reviewed publications
+Journal articles
 ======
 
+1. <b>Ungerer, Tobias</b>. forthcoming. Extending structural priming to test constructional relations: Some comments and suggestions. <i>Yearbook of the German Cognitive Linguistics Association</i>.
+1. Hartmann, Stefan, Jakob Neels, and <b>Tobias Ungerer</b>. forthcoming. <i>My grammar runneth over</i>: Reconsidering the role of extravagance in grammaticalisation. (see the <a href="https://github.com/hartmast/degreemodifiers">dataset</a>)
 1. <b>Ungerer, Tobias</b>. 2021. Using structural priming to test links between constructions: English caused-motion and resultative sentences inhibit each other. <i>Cognitive Linguistics</i> 32(3). 389-420. <a href="https://doi.org/10.1515/cog-2020-0016">https://doi.org/10.1515/cog-2020-0016</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author manuscript</a> and the <a href="https://doi.org/10.18710/2YJITD">dataset</a>)
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann. 2020. Delineating extravagance: Assessing speakers’ perceptions of imaginative constructional patterns. <i>Belgian Journal of Linguistics</i> 34. 345–356. <a href="https://doi.org/10.1075/bjl.00058.ung">https://doi.org/10.1075/bjl.00058.ung</a> (see the <a href="https://doi.org/10.17605/OSF.IO/M4W52">dataset</a>)
-1. Hartmann, Stefan, Jakob Neels, and <b>Tobias Ungerer</b>. forthcoming. <i>My grammar runneth over</i>: Reconsidering the role of extravagance in grammaticalisation. (see the <a href="https://github.com/hartmast/degreemodifiers">dataset</a>)
+
 
 Preprints
 ======
@@ -28,7 +30,7 @@ Preprints
 Book reviews
 ======
 
-1. <b>Ungerer, Tobias</b>. 2022. Review of Sommerer & Smirnova (2020): Nodes and Networks in Diachronic Construction Grammar. <i>Journal of Historical Linguistics</i>. <a href="https://doi.org/10.1075/jhl.20045.ung">https://doi.org/10.1075/jhl.20045.ung</a>
+1. <b>Ungerer, Tobias</b>. 2022. Review of Sommerer & Smirnova (2020): Nodes and Networks in Diachronic Construction Grammar. <i>Journal of Historical Linguistics</i> 12(2). 317-326. <a href="https://doi.org/10.1075/jhl.20045.ung">https://doi.org/10.1075/jhl.20045.ung</a>
 
 
 
