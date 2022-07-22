@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Tobias Ungerer"
 title_separator          : "-"
-name                     : &name "Tobias PhD Ungerer"
+name                     : &name "Tobias Ungerer"
 description              : &description "Postdoc in Cognitive Science at Concordia University, Montreal"
 url                      : https://tungerer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tobias Ungerer"
+  name             : "Tobias Ungerer, PhD"
   avatar           : "profile_Aug_2021.jpg"
   bio              : "Postdoc in Cognitive Science at Concordia University, Montreal"
   location         : # "Edinburgh, UK"
