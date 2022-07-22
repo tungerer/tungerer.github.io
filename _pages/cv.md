@@ -16,10 +16,10 @@ Professional appointments
 
 Education
 ======
-* 2018-2022: PhD Linguistics and English Language (submitted), University of Edinburgh
-   * Expected completion: spring/summer 2022
+* 2018-2022: PhD Linguistics and English Language, University of Edinburgh
    * Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
    * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
+   * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
 * Feb-April 2020: Research visit to Prof. Adele Goldberg's lab at Princeton University (online only in April)
 * 2017-2018: MSc Linguistics (with distinction), University of Edinburgh
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
@@ -39,9 +39,9 @@ See <a href="https://tungerer.github.io/publications/">here for publications</a>
   
 Admin experience
 ======
-* Member of the organizing committee for the <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language/research/talks-and-reading-groups/linguistic-circle">Linguistic Circle</a>, University of Edinburgh
-* Co-organizer of the <a href="https://www.ed.ac.uk/ppls/linguistics-and-english-language/research/talks-and-reading-groups/cognitive-linguistics">Cognitive Linguistics Research Group</a>, University of Edinburgh
-* Member of the organizing committee for the <a href="https://pgc.lel.ed.ac.uk/archive/2019/">Linguistics and English Language Postgraduate Conference</a>,  University of Edinburgh (4-7 June, 2019)
+* Linguistic Circle, University of Edinburgh (2019-2022, member of the organizing committee) 
+* Cognitive Linguistics Research Group, University of Edinburgh (2019-2022, co-organizer)
+* Linguistics and English Language Postgraduate Conference,  University of Edinburgh (2019, member of the organizing committee)
 
 Awards
 ======

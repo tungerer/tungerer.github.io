@@ -16,6 +16,6 @@ Apart from that, I'm interested in:
 <ul>
   <li>Theoretical accounts of different network links between constructions (taxonomic 'inheritance' links, syntagmatic links, metaphorical links, etc.), including the difference between 'vertical' and 'horizontal' links (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Vertical-and-horizontal-links.pdf">slides</a> of my recent talk at ICCG11)</li>
   <li>Methodological issues in structural priming (and other types of priming), such as the conditions that give rise to facilitatory and inhibitory priming</li>
-  <li>Formal and computational approaches to linguistic networks, including the tools of network science (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Network-science-methods.pdf">slides</a> from a recent research group talk</li>
-  <li>The concept of linguistic 'extravagance' in synchrony and diachrony (see our <a href="https://doi.org/10.1075/bjl.00058.ung">recent paper</a>), as illustrated by so-called 'snowclones' (constructions like <i>X is the new Y</i> - see our preprint <a href="https://doi.org/10.31234/osf.io/y6a8g">here</a>)</li>
+  <li>Formal and computational approaches to linguistic networks, including the tools of network science (see these <a href="https://tungerer.github.io/files/Ungerer-2021-Network-science-methods.pdf">slides</a> from a research group talk)</li>
+  <li>The concept of linguistic 'extravagance' in synchrony and diachrony (see our <a href="https://doi.org/10.1075/bjl.00058.ung">paper</a>), as illustrated by so-called 'snowclones' (constructions like <i>X is the new Y</i> - see our <a href="https://doi.org/10.31234/osf.io/y6a8g">preprint</a>)</li>
 </ul>
