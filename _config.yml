@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tobias Ungerer, PhD"
+title                    : "Tobias Ungerer"
 title_separator          : "-"
-name                     : &name "Tobias Ungerer, PhD"
+name                     : &name "Tobias Ungerer PhD"
 description              : &description "Postdoc in Cognitive Science at Concordia University, Montreal"
 url                      : https://tungerer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
