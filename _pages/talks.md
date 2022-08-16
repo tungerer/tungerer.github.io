@@ -9,7 +9,8 @@ redirect_from:
 
 Upcoming talks
 ======
-1. Hartmann, Stefan, Jakob Neels and <b>Tobias Ungerer</b> (2022, 24-27 Aug): <i>A quantum of salience</i>: Reconsidering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea (SLE). Bucharest, Romania.
+1. <b>Ungerer, Tobias</b> (2022, 22-24 August): A priming approach to the representation of English argument structure constructions. Concepts in Action: Representation, Learning, and Application (CARLA). Berlin, Germany.
+1. Hartmann, Stefan, Jakob Neels and <b>Tobias Ungerer</b> (2022, 24-27 August): <i>A quantum of salience</i>: Reconsidering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea (SLE). Bucharest, Romania.
 1. <b>Ungerer, Tobias</b> and Stefan Hartmann (2022, 15-17 September): Are snowclones the new black? A corpus-based approach to extravagant formulaic patterns. 9th Biennial International Conference on the Linguistics of Contemporary English (BICLCE). Ljubljana, Slovenia.
 
 Talks delivered
