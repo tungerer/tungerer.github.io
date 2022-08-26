@@ -16,18 +16,18 @@ Professional appointments
 
 Education
 ======
-<b>PhD Linguistics and English Language</b>, University of Edinburgh (2018-2022)
-* Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
-* Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
-* Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020; online only in April)
-MSc Linguistics (with distinction), University of Edinburgh (2017-2018)
-* Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
-* Supervisor: Prof. Graeme Trousdale
-2014-15: Study year at the University of Cambridge via Erasmus+
-2012-2019: Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University
-* Thesis: "Mediopassives in English – A cognitive empirical approach"
-* Supervisor: Prof. Doris Schönefeld
+* <b>PhD Linguistics and English Language</b>, University of Edinburgh (2018-2022)
+   * Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
+   * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
+   * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
+* <b>Research visit</b> to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020, online only in April)
+* <b>MSc Linguistics (with distinction)</b>, University of Edinburgh (2017-2018)
+   * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
+   * Supervisor: Prof. Graeme Trousdale
+* <b>Study year</b> at the University of Cambridge via Erasmus+ (2014-15)
+* <b>Staatsexamen</b> for teaching English and German at secondary schools (with distinction) and <b>BA British Studies</b>, Leipzig University (2012-2019)
+   * Thesis: "Mediopassives in English – A cognitive empirical approach"
+   * Supervisor: Prof. Doris Schönefeld
 
 Teaching experience
 ======
