@@ -16,16 +16,16 @@ Professional appointments
 
 Education
 ======
-* <b>PhD Linguistics and English Language, University of Edinburgh</b> (2018-2022)
+* PhD Linguistics and English Language, University of Edinburgh (2018-2022)
    * Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
    * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
    * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-* <b>Research visit to Prof. Adele Goldberg's lab at Princeton University</b> (Feb-April 2020, online only in April)
-* <b>MSc Linguistics (with distinction), University of Edinburgh</b> (2017-2018)
+* Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020, online only in April)
+* MSc Linguistics (with distinction), University of Edinburgh (2017-2018)
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Prof. Graeme Trousdale
-* <b>Study year at the University of Cambridge via Erasmus+</b> (2014-15)
-* <b>Staatsexamen for teaching English and German at secondary schools (with distinction)</b> and <b>BA British Studies</b>, Leipzig University (2012-2019)
+* Study year at the University of Cambridge via Erasmus+ (2014-15)
+* Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University (2012-2019)
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Prof. Doris Schönefeld
 
