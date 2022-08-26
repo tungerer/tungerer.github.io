@@ -16,18 +16,18 @@ Professional appointments
 
 Education
 ======
-* 2018-2022: PhD Linguistics and English Language, University of Edinburgh
-   * Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
-   * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
-   * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-* Feb-April 2020: Research visit to Prof. Adele Goldberg's lab at Princeton University (online only in April)
-* 2017-2018: MSc Linguistics (with distinction), University of Edinburgh
-   * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
-   * Supervisor: Prof. Graeme Trousdale
-* 2014-15: Study year at the University of Cambridge via Erasmus+
-* 2012-2019: Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University
-   * Thesis: "Mediopassives in English – A cognitive empirical approach"
-   * Supervisor: Prof. Doris Schönefeld
+<b>PhD Linguistics and English Language</b>, University of Edinburgh (2018-2022)
+* Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
+* Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
+* Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
+Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020; online only in April)
+MSc Linguistics (with distinction), University of Edinburgh (2017-2018)
+* Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
+* Supervisor: Prof. Graeme Trousdale
+2014-15: Study year at the University of Cambridge via Erasmus+
+2012-2019: Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University
+* Thesis: "Mediopassives in English – A cognitive empirical approach"
+* Supervisor: Prof. Doris Schönefeld
 
 Teaching experience
 ======
@@ -37,6 +37,11 @@ Publications and talks
 ======
 See <a href="https://tungerer.github.io/publications/">here for publications</a> and <a href="https://tungerer.github.io/talks/">here for talks</a>
   
+Reviewer experience
+======
+* Peer reviewer for <i>Cognitive Linguistics</i>
+* Conference reviewer for the International Cognitive Linguistics Conference (2023)
+
 Admin experience
 ======
 * Linguistic Circle, University of Edinburgh (2019-2022, member of the organizing committee) 
