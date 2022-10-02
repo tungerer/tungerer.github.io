@@ -16,7 +16,7 @@ PhD thesis
 Journal articles
 ======
 
-1. <b>Ungerer, Tobias</b>. forthcoming. Vertical and horizontal links in constructional networks: two sides of the same coin? <i>Constructions and Frames</i>.
+1. <b>Ungerer, Tobias</b>. forthcoming. Vertical and horizontal links in constructional networks: two sides of the same coin? <i>Constructions and Frames</i>. (see the <a href="https://tungerer.github.io/files/Ungerer-forthc-Vertical-and-horizontal-links.pdf">author manuscript</a>)
 1. <b>Ungerer, Tobias</b>. forthcoming. Extending structural priming to test constructional relations: Some comments and suggestions. <i>Yearbook of the German Cognitive Linguistics Association</i>.
 1. Hartmann, Stefan, Jakob Neels, and <b>Tobias Ungerer</b>. forthcoming. <i>My grammar runneth over</i>: Reconsidering the role of extravagance in grammaticalisation. (see the <a href="https://github.com/hartmast/degreemodifiers">dataset</a>)
 1. <b>Ungerer, Tobias</b>. 2021. Using structural priming to test links between constructions: English caused-motion and resultative sentences inhibit each other. <i>Cognitive Linguistics</i> 32(3). 389-420. <a href="https://doi.org/10.1515/cog-2020-0016">https://doi.org/10.1515/cog-2020-0016</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author manuscript</a> and the <a href="https://doi.org/10.18710/2YJITD">dataset</a>)
