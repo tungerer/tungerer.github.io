@@ -14,7 +14,7 @@ For my PhD at the University of Edinburgh (supervised by Graeme Trousdale, Nik G
 
 Apart from that, I'm interested in:
 <ul>
-  <li>Construction Grammar and cognitive-linguistic theory (see my forthcoming <a href="https://tungerer.github.io/files/Ungerer-forthc-Vertical-and-horizontal-links.pdf">manuscript</a> here)</li>
+  <li>Construction Grammar and cognitive-linguistic theory (see my forthcoming <a href="https://tungerer.github.io/files/Ungerer-forthc-Vertical-and-horizontal-links.pdf">manuscript</a> about the concepts of 'vertical' and 'horizontal' links between constructions)</li>
   <li>Priming methodologies, incl. the question of how structural priming can be extended to new phenomena, and what factors give rise to facilitatory and inhibitory priming</li>
   <li>Formal and computational approaches to linguistic networks, including the tools of network science (see my <a href="https://tungerer.github.io/files/Ungerer-2021-Network-science-methods.pdf">slides</a> from a research group talk)</li>
   <li>Linguistic creativity, specifically the concept of linguistic 'extravagance' (see our <a href="https://doi.org/10.1075/bjl.00058.ung">paper</a>) and its application to so-called 'snowclone' constructions (e.g., <i>X is the new Y</i> - see our <a href="https://doi.org/10.31234/osf.io/y6a8g">preprint</a>)</li>
