@@ -37,7 +37,7 @@ Invited talks and workshops
 
 Posters delivered
 ======
-1. Antal, Caitlyn, Roberto G. de Almeida, and <b>Tobias Ungerer</b> (2022, 11-14 October): The authors wrote the paper dry: Contrasting resultative and depictive verb templates. International Conference on the Mental Lexicon. Niagara-on-the-lake, ON, Canada.
+1. Antal, Caitlyn, Roberto G. de Almeida, and <b>Tobias Ungerer</b> (2022, 11-14 October): The authors wrote the paper dry: Contrasting resultative and depictive verb templates. 12th International Conference on the Mental Lexicon. Niagara-on-the-lake, ON, Canada.
 
 
 
