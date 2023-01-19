@@ -33,6 +33,7 @@ Talks delivered
 
 Invited talks and workshops
 ======
+1. <b>Ungerer, Tobias</b> (2022, 23 November): Construction Grammar and implicit arguments. “Topics in Semantics” seminar (led by Prof. Brendan Gillon). McGill University, Montreal.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, 18-20 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
 
 Posters delivered

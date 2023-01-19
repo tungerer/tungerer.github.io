@@ -17,7 +17,7 @@ Professional appointments
 Education
 ======
 * PhD Linguistics and English Language, University of Edinburgh (2018-2022)
-   * Thesis: "Structural priming in the grammatical network – A study of English argument structure constructions"
+   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions"
    * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
    * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
 * Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020, online only in April)
@@ -41,6 +41,7 @@ Reviewer experience
 ======
 * Peer reviewer for <i>Cognitive Linguistics</i>
 * Conference reviewer for the International Cognitive Linguistics Conference (2023)
+* Book reviews for journals (see Publications)
 
 Admin experience
 ======
@@ -55,7 +56,7 @@ Awards
 * Research Support Grants (multiple), University of Edinburgh (2019-2021)
 * Go Abroad Fund, University of Edinburgh (2019)
 * PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh (2018)
-* Scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
+* Short-term scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
 * Erasmus+ scholarship for a study year at the University of Cambridge (2014-2015)
 * Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>) (2012-2019)
   
