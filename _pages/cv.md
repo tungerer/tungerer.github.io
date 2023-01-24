@@ -25,7 +25,7 @@ Education
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Prof. Graeme Trousdale
 * Study year at the University of Cambridge via Erasmus+ (2014-15)
-* Staatsexamen for teaching English and German at secondary schools (with distinction) and BA British Studies, Leipzig University (2012-2019)
+* BA British Studies and Staatsexamen for teaching English and German at secondary schools (with distinction), Leipzig University (2012-2019)
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Prof. Doris Schönefeld
 
@@ -39,13 +39,13 @@ See <a href="https://tungerer.github.io/publications/">here for publications</a>
   
 Reviewer experience
 ======
-* Peer reviewer for <i>Cognitive Linguistics</i>
-* Conference reviewer for the International Cognitive Linguistics Conference (2023)
-* Book reviews for journals (see Publications)
+* Journal peer review: <i>Cognitive Linguistics</i> and <i>Language and Cognition</i>
+* Conference abstract review: International Cognitive Linguistics Conference (2023)
 
 Admin experience
 ======
-* Linguistic Circle, University of Edinburgh (2019-2022, member of the organizing committee) 
+* Psycholinguistics & Cognition lab meetings, Concordia University (2022-, co-organizer)
+* Linguistic Circle, University of Edinburgh (2019-2022, co-organizer) 
 * Cognitive Linguistics Research Group, University of Edinburgh (2019-2022, co-organizer)
 * Linguistics and English Language Postgraduate Conference,  University of Edinburgh (2019, member of the organizing committee)
 
