@@ -11,11 +11,13 @@ PhD thesis
 ======
 
 <b>Ungerer, Tobias</b>. 2022. <i>Structural priming in the grammatical network: A study of English argument structure constructions.</i> University of Edinburgh dissertation. (<a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">download here</a>)
+<<<<<<< HEAD
 
 
 Monographs
 ======
 1. <b>Ungerer, Tobias</b> and Stefan Hartmann. forthcoming. Constructionist approaches: Past, present, future. Cambridge: Cambridge University Press. (see the <a href="https://doi.org/10.31234/osf.io/83dvj">preprint</a>)
+=======
 
 
 Journal articles
