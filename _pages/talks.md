@@ -10,11 +10,15 @@ redirect_from:
 Upcoming talks
 ======
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2023, 7-10 March): “<i>Chaos theory, shmaos theory</i>”: Creativity and routine in English <i>shm</i>-reduplication. 45th Annual Conference of the German Linguistic Society (DGfS). Cologne, Germany.
-1. <b>Ungerer, Tobias</b>, Caitlyn Antal, and Roberto G. de Almeida (2023, 7-11 August): Sneezing the napkin off the table: Mechanisms of valency coercion in eye-tracking. 16th International Cognitive Linguistics Conference Conference (ICLC). Düsseldorf, Germany.
+1. <b>Ungerer, Tobias</b>, Caitlyn Antal, and Roberto G. de Almeida (2023, 7-11 August): <i>Sneezing the napkin off the table</i>: Mechanisms of valency coercion in eye-tracking. 16th International Cognitive Linguistics Conference Conference (ICLC). Düsseldorf, Germany.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2023, 7-11 August): What is a “taxonomic network”? On the relationship between hierarchies and networks. 16th International Cognitive Linguistics Conference Conference (ICLC). Düsseldorf, Germany.
 
+Invited talks
+======
+1. <b>Ungerer, Tobias</b> (2022, 23 November): Construction Grammar and implicit arguments. "Topics in Semantics" seminar (led by Prof. Brendan Gillon). McGill University, Montreal.
+1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, 18-20 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
 
-Talks delivered
+Conference talks
 ======
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, 15-17 September): Are snowclones the new black? A corpus-based approach to extravagant formulaic patterns. 9th Biennial International Conference on the Linguistics of Contemporary English (BICLCE). Ljubljana, Slovenia.
 1. Hartmann, Stefan, Jakob Neels, and <b>Tobias Ungerer</b> (2022, 24-27 August): <i>A quantum of salience</i>: Reconsidering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea (SLE). Bucharest, Romania.
@@ -33,14 +37,9 @@ Talks delivered
 1. <b>Ungerer, Tobias</b> (2019, 6-11 August): Using structural priming to test links between constructions: Priming between caused-motion and resultatives sentences. 15th International Cognitive Linguistics Conference (ICLC). Nishinomiya, Japan. (<a href="https://tungerer.github.io/files/Ungerer-2019-ICLC-Using-structural-priming-to-test-links.pdf">slides</a>)
 1. <b>Ungerer, Tobias</b> (2019, 4-7 June): The concept of ‘inheritance’ in grammatical theory – What is it and which questions does it raise? 25th Linguistics and English Language Postgraduate Conference (LELPGC). Edinburgh, UK.
 
-Invited talks and workshops
+Conference posters
 ======
-1. <b>Ungerer, Tobias</b> (2022, 23 November): Construction Grammar and implicit arguments. “Topics in Semantics” seminar (led by Prof. Brendan Gillon). McGill University, Montreal.
-1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, 18-20 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
-
-Posters delivered
-======
-1. Antal, Caitlyn, Roberto G. de Almeida, and <b>Tobias Ungerer</b> (2022, 11-14 October): The authors wrote the paper dry: Contrasting resultative and depictive verb templates. 12th International Conference on the Mental Lexicon. Niagara-on-the-lake, ON, Canada.
+1. Antal, Caitlyn, Roberto G. de Almeida, and <b>Tobias Ungerer</b> (2022, 11-14 October): <i>The authors wrote the paper dry</i>: Contrasting resultative and depictive verb templates. 12th International Conference on the Mental Lexicon. Niagara-on-the-lake, ON, Canada.
 
 
 
