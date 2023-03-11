@@ -29,13 +29,24 @@ Education
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Prof. Doris Schönefeld
 
-Teaching experience
+Awards
 ======
-See <a href="https://tungerer.github.io/teaching/">here</a>
+* Horizon Postdoctoral Fellowship, Concordia University, Montreal (2022-2024)
+* School of Philosophy, Psychology and Language Science PhD Scholarship, University of Edinburgh (2018-2021)
+* Research Support Grants (multiple), University of Edinburgh (2019-2021)
+* Go Abroad Fund, University of Edinburgh (2019)
+* PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh (2018)
+* Short-term scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
+* Erasmus+ scholarship for a study year at the University of Cambridge (2014-2015)
+* Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>) (2012-2019)
 
 Publications and talks
 ======
 See <a href="https://tungerer.github.io/publications/">here for publications</a> and <a href="https://tungerer.github.io/talks/">here for talks</a>
+  
+Teaching experience
+======
+See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
@@ -49,14 +60,3 @@ Admin experience
 * Cognitive Linguistics Research Group, University of Edinburgh (2019-2022, co-organizer)
 * Linguistics and English Language Postgraduate Conference,  University of Edinburgh (2019, member of the organizing committee)
 
-Awards
-======
-* Horizon Postdoctoral Fellowship, Concordia University, Montreal (2022-2024)
-* School of Philosophy, Psychology and Language Science PhD Scholarship, University of Edinburgh (2018-2021)
-* Research Support Grants (multiple), University of Edinburgh (2019-2021)
-* Go Abroad Fund, University of Edinburgh (2019)
-* PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh (2018)
-* Short-term scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
-* Erasmus+ scholarship for a study year at the University of Cambridge (2014-2015)
-* Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>) (2012-2019)
-  
