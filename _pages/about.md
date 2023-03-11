@@ -14,7 +14,7 @@ Our current projects at the lab include:
 <ul>
   <li><b>Argument structure</b>: processing of resultatives (<i>He cut the grass short</i>) vs. depictives (<i>She cut the grass wet</i>)
   <li><b>Grammatical creativity</b>: processing of "coerced" sentences like <i>She sneezed the napkin off the table</i></li>
-  <li><b>Implicit arguments</b>: processing of implicit themes (<i>They were eating \[ \]</i>) and implicit instruments (<i>She was beating the egg \[with a whisk\]</i>)
+  <li><b>Implicit arguments</b>: processing of implicit themes (<i>They were eating [ ]</i>) and implicit instruments (<i>She was beating the egg [with a whisk]</i>)
 </ul>
 
 Apart from that, I'm interested in:
