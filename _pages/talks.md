@@ -9,7 +9,6 @@ redirect_from:
 
 Upcoming talks
 ======
-1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2023, 7-10 March): “<i>Chaos theory, shmaos theory</i>”: Creativity and routine in English <i>shm</i>-reduplication. 45th Annual Conference of the German Linguistic Society (DGfS). Cologne, Germany.
 1. <b>Ungerer, Tobias</b>, Caitlyn Antal, and Roberto G. de Almeida (2023, 7-11 August): <i>Sneezing the napkin off the table</i>: Mechanisms of valency coercion in eye-tracking. 16th International Cognitive Linguistics Conference Conference (ICLC). Düsseldorf, Germany.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2023, 7-11 August): What is a “taxonomic network”? On the relationship between hierarchies and networks. 16th International Cognitive Linguistics Conference Conference (ICLC). Düsseldorf, Germany.
 
@@ -20,6 +19,7 @@ Invited talks
 
 Conference talks
 ======
+1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2023, 7-10 March): “<i>Chaos theory, shmaos theory</i>”: Creativity and routine in English <i>shm</i>-reduplication. 45th Annual Conference of the German Linguistic Society (DGfS). Cologne, Germany.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, 15-17 September): Are snowclones the new black? A corpus-based approach to extravagant formulaic patterns. 9th Biennial International Conference on the Linguistics of Contemporary English (BICLCE). Ljubljana, Slovenia.
 1. Hartmann, Stefan, Jakob Neels, and <b>Tobias Ungerer</b> (2022, 24-27 August): <i>A quantum of salience</i>: Reconsidering the role of extravagance in grammaticalization. 55th Annual Meeting of the Societas Linguistica Europaea (SLE). Bucharest, Romania.
 1. <b>Ungerer, Tobias</b> (2022, 22-24 August): A priming approach to the representation of English argument structure constructions. Concepts in Action: Representation, Learning, and Application (CARLA). Berlin, Germany. (<a href="https://tungerer.github.io/files/Ungerer-2022-A-priming-approach-to-English-ASCs.pdf">slides</a>)
