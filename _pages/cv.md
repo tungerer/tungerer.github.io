@@ -11,7 +11,7 @@ redirect_from:
 
 Professional appointments
 ======
-* 07/2022-06/2024: Horizon Postdoctoral Fellow at Concordia University, Montreal
+* July 2022 - June 2024: Horizon Postdoctoral Fellow at Concordia University, Montreal
 	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a> (Prof. Roberto G. de Almeida)
 
 Education

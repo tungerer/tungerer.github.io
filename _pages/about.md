@@ -18,7 +18,7 @@ Our current projects at the lab include:
   <li><b>Implicit arguments</b>: To what extent do speakers infer implicit but unpronounced themes (<i>They were eating [dinner]</i>) and instruments (<i>She was beating the egg [with a whisk]</i>)?</li>
 </ul>
 
-Previously, I did my PhD at the University of Edinburgh (2022), where I examined how psycholinguistic evidence from structural priming can inform cognitive-linguistic models of grammar as a mental network. Download my <a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">thesis</a> (soon to be published) and check out my <a href="https://doi.org/10.1515/cog-2020-0016">paper</a> on priming between the English caused-motion and the resultative construction (<a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author version</a>).
+Previously, I did my PhD at the University of Edinburgh (2022), where I examined how psycholinguistic evidence from structural priming can inform cognitive-linguistic models of grammar as a mental network. Download my <a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">thesis</a> (soon to be published) and check out my <a href="https://doi.org/10.1515/cog-2020-0016">paper</a> on priming between the English caused-motion and the resultative construction (<a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author version here</a>).
 
 Apart from that, I'm interested in:
 <ul>
