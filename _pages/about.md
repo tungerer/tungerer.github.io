@@ -11,13 +11,13 @@ redirect_from:
 Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a> (PI Roberto G. de Almeida) at Concordia University, Montreal. 
 In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
 
-<b>--- NEWS: see my two forthcoming books ---</b>
+<b>----- NEWS: SEE MY TWO FORTHCOMING BOOKS -----</b>
 <ul>
-  <li>(with Stefan Hartmann) <i>Constructionist Approaches: Past, Present, Future</i>, expected July 2023, Cambridge University Press (<a href="https://www.cambridge.org/core/elements/constructionist-approaches/4F37E9A2B97EB663F532B4068702055C">link</a>)</li>
-  <li><i>Structural priming in the grammatical network</i>, expected summer 2023, John Benjamins</li>
+  <li><i>Structural priming in the grammatical network</i>, John Benjamins, expected summer 2023</li>
+  <li>(with Stefan Hartmann) <i>Constructionist Approaches: Past, Present, Future</i>, Cambridge University Press, expected July 2023 (<a href="https://www.cambridge.org/core/elements/constructionist-approaches/4F37E9A2B97EB663F532B4068702055C">link</a>)</li>
 </ul>
 
-Our current projects at the lab include:
+At the Psycholinguistics & Cognition Lab, our current projects include:
 <ul>
   <li><b>Argument structure</b>: How do speakers compose meaning in resultatives (<i>He cut the grass short</i>) as opposed to depictives (<i>She cut the grass wet</i>)?</li>
   <li><b>Grammatical creativity</b>: How do speakers comprehend grammatically "coerced" sentences like <i>She sneezed the napkin off the table</i>?</li>
