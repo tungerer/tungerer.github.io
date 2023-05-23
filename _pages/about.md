@@ -22,8 +22,8 @@ Previously, I did my PhD at the University of Edinburgh (2022), where I examined
 
 Apart from that, I'm interested in:
 <ul>
-  <li><b>Construction Grammar and cognitive-linguistic theory</b>: see our forthcoming Cambridge Element on constructionist approaches (<a href="https://doi.org/10.31234/osf.io/83dvj">preprint here</a>)</li>
+  <li><b>Construction Grammar and cognitive-linguistic theory</b>: see our forthcoming Cambridge Element on constructionist approaches (<a href="https://doi.org/10.31234/osf.io/83dvj">preprint here</a>) and my recent <a href="https://doi.org/10.24338/cons-543">paper</a> on why constructionhood is gradient (<a href="https://tungerer.github.io/files/Ungerer-2023-Gradient-constructionhood.pdf">PDF here</a>)</li>
   <li><b>Priming methodologies</b> and how they can be extended to new grammatical constructions: see my <a href="https://doi.org/10.1515/gcla-2022-0008">paper</a> (<a href="https://tungerer.github.io/files/Ungerer-2022-Extending-structural-priming.pdf">download author version</a>)</li>
   <li><b>Linguistic networks</b> from a theoretical and formal perspective: see my forthcoming paper about 'vertical' and 'horizontal' links between constructions (<a href="https://tungerer.github.io/files/Ungerer-forthc-Vertical-and-horizontal-links.pdf">download author version</a>) and these <a href="https://tungerer.github.io/files/Ungerer-2021-Network-science-methods.pdf">slides</a> on network science methods in linguistics</li>
-  <li><b>Creativity in language change</b>: see our <a href="https://doi.org/10.1075/bjl.00058.ung">paper</a> on the concept of 'extravagance', and its application to 'snowclone' constructions like <i>X is the new Y</i> in our forthcoming paper (<a href="https://doi.org/10.31234/osf.io/y6a8g">preprint here</a>)</li>
+  <li><b>Creativity in language change</b>: see our <a href="https://doi.org/10.1075/bjl.00058.ung">paper</a> on the concept of 'extravagance', and its application to 'snowclone' constructions like <i>X is the new Y</i> <a href="https://doi.org/10.1017/S0022226723000117">here</a> (<a href="https://doi.org/10.31234/osf.io/y6a8g">preprint here</a>)</li>
 </ul>
