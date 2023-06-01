@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a> (PI Roberto G. de Almeida) at Concordia University, Montreal. 
+Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a> (PI Roberto G. de Almeida) at Concordia University, Montreal. 
 In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
 
-<b>----- NEWS: SEE MY TWO FORTHCOMING BOOKS -----</b>
+<b>----- NEWS: check out my two forthcoming books -----</b>
 <ul>
   <li><i>Structural priming in the grammatical network</i>, John Benjamins, expected summer 2023</li>
   <li>(with Stefan Hartmann) <i>Constructionist Approaches: Past, Present, Future</i>, Cambridge University Press, expected July 2023 (<a href="https://www.cambridge.org/core/elements/constructionist-approaches/4F37E9A2B97EB663F532B4068702055C">link</a>)</li>
 </ul>
 
-At the Psycholinguistics & Cognition Lab, our current projects include:
+At the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a>, our current projects include:
 <ul>
   <li><b>Argument structure</b>: How do speakers compose meaning in resultatives (<i>He cut the grass short</i>) as opposed to depictives (<i>She cut the grass wet</i>)?</li>
   <li><b>Grammatical creativity</b>: How do speakers comprehend grammatically "coerced" sentences like <i>She sneezed the napkin off the table</i>?</li>
