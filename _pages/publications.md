@@ -39,7 +39,7 @@ Preprints
 
 Book reviews
 ======
-1. <b>Ungerer, Tobias</b>. 2023. Elaine J. Francis, Gradient acceptability and linguistic theory (Oxford Surveys in Syntax & Morphology). Oxford: Oxford University Press, 2022. Pp. xv 270. ISBN 9780192898951. <i>English Language & Linguistics</i> 27(2). 430-436. <a href="https://doi.org/10.1017/S1360674323000059">https://doi.org/10.1017/S1360674323000059</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2023-Review-Francis-2022.pdf">author manuscript</a>)
-1. <b>Ungerer, Tobias</b>. 2022. Review of Sommerer & Smirnova (2020): Nodes and Networks in Diachronic Construction Grammar. <i>Journal of Historical Linguistics</i> 12(2). 317-326. <a href="https://doi.org/10.1075/jhl.20045.ung">https://doi.org/10.1075/jhl.20045.ung</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2022-Review-Sommerer-and-Smirnova-2020.pdf">author manuscript</a>)
+1. <b>Ungerer, Tobias</b>. 2023. Elaine J. Francis, Gradient acceptability and linguistic theory (Oxford Surveys in Syntax & Morphology). Oxford: Oxford University Press, 2022. Pp. xv 270. ISBN 9780192898951. <i>English Language & Linguistics</i> 27(2). 430&ndash;436. <a href="https://doi.org/10.1017/S1360674323000059">https://doi.org/10.1017/S1360674323000059</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2023-Review-Francis-2022.pdf">author manuscript</a>)
+1. <b>Ungerer, Tobias</b>. 2022. Review of Sommerer & Smirnova (2020): Nodes and Networks in Diachronic Construction Grammar. <i>Journal of Historical Linguistics</i> 12(2). 317&ndash;326. <a href="https://doi.org/10.1075/jhl.20045.ung">https://doi.org/10.1075/jhl.20045.ung</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2022-Review-Sommerer-and-Smirnova-2020.pdf">author manuscript</a>)
 
 
