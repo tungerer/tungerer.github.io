@@ -50,8 +50,8 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
-* Journal peer review: <i>Cognitive Linguistics</i> and <i>Language and Cognition</i>
-* Conference abstract review: International Cognitive Linguistics Conference (2023)
+* Peer review for the following journals: <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>
+* Abstract review for the following conferences: International Cognitive Linguistics Conference (2023)
 
 Admin experience
 ======
