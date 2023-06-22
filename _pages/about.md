@@ -11,10 +11,10 @@ redirect_from:
 Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a> (PI Roberto G. de Almeida) at Concordia University, Montreal. 
 In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
 
-<b>----- NEWS: check out my two forthcoming books -----</b>
+<b>----- NEWS: check out my two new books -----</b>
 <ul>
-  <li><i>Structural priming in the grammatical network</i>, John Benjamins, expected summer 2023</li>
-  <li>(with Stefan Hartmann) <i>Constructionist Approaches: Past, Present, Future</i>, Cambridge University Press, expected July 2023 (<a href="https://www.cambridge.org/core/elements/constructionist-approaches/4F37E9A2B97EB663F532B4068702055C">link</a>)</li>
+  <li><b><i>Constructionist Approaches: Past, Present, Future</i></b> (2023, with Stefan Hartmann), Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access</a>)</li>
+  <li><b><i>Structural priming in the grammatical network</i></b>, John Benjamins, expected July 2023</li>
 </ul>
 
 At the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a>, our current projects include:
