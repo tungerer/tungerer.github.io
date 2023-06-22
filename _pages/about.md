@@ -13,7 +13,7 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>----- NEWS: check out my two new books -----</b>
 <ul>
-  <li><b><i>Constructionist approaches: Past, present, future</i></b> (with Stefan Hartmann), Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access here</a>)</li>
+  <li><b><i>Constructionist approaches: Past, present, future</i></b> (with Stefan Hartmann), 2023, Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access here</a>)</li>
   <li><b><i>Structural priming in the grammatical network</i></b> (expected July 2023), John Benjamins (<a href="https://benjamins.com/catalog/cal.35">soon here</a>) </li>
 </ul>
 
