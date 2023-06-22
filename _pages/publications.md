@@ -15,7 +15,7 @@ PhD thesis
 Monographs
 ======
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann. 2023. <i>Constructionist approaches: Past, present, future</i>. Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/9781009308717">https://doi.org/10.1017/9781009308717</a> (Open Access)
-1. <b>Ungerer, Tobias</b>. in press. <i>Structural priming in the grammatical network</i> (Constructional Approaches to Language series). Amsterdam & Philadelphia: John Benjamins. 
+1. <b>Ungerer, Tobias</b>. in press. <i>Structural priming in the grammatical network</i> (Constructional Approaches to Language series). Amsterdam & Philadelphia: John Benjamins. (<a href="https://benjamins.com/catalog/cal.35">soon here</a>)
 
 Peer-reviewed articles
 ======

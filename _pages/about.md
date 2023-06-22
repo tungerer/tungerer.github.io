@@ -13,8 +13,8 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>----- NEWS: check out my two new books -----</b>
 <ul>
-  <li><b><i>Constructionist Approaches: Past, Present, Future</i></b> (2023, with Stefan Hartmann), Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access</a>)</li>
-  <li><b><i>Structural priming in the grammatical network</i></b>, John Benjamins, expected July 2023</li>
+  <li><b><i>Constructionist approaches: Past, present, future</i></b> (with Stefan Hartmann), Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access here</a>)</li>
+  <li><b><i>Structural priming in the grammatical network</i></b> (expected July 2023), John Benjamins (<a href="https://benjamins.com/catalog/cal.35">soon here</a>) </li>
 </ul>
 
 At the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a>, our current projects include:
