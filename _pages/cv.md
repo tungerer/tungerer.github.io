@@ -16,16 +16,16 @@ Professional appointments
 
 Education
 ======
-* PhD Linguistics and English Language, University of Edinburgh (2018-2022)
-   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions"
+* <b>PhD Linguistics and English Language, University of Edinburgh</b> (2018-2022)
+   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (<a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">download here</a>)
    * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
    * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-* Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020, online only in April)
-* MSc Linguistics (with distinction), University of Edinburgh (2017-2018)
+* <b>Research visit to Prof. Adele Goldberg's lab at Princeton University</b> (Feb-April 2020)
+* <b>MSc Linguistics (with distinction), University of Edinburgh</b> (2017-2018)
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Prof. Graeme Trousdale
-* Study year at the University of Cambridge via Erasmus+ (2014-15)
-* BA British Studies and Staatsexamen for teaching English and German at secondary schools (with distinction), Leipzig University (2012-2019)
+* <b>Study year at the University of Cambridge via Erasmus+</b> (2014-15)
+* <b>BA British Studies and Staatsexamen English/German (with distinction), Leipzig University</b> (2012-2019)
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Prof. Doris Schönefeld
 
@@ -55,6 +55,7 @@ Reviewer experience
 
 Admin experience
 ======
+* CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications), Concordia University (August 2023, co-organizer)
 * Psycholinguistics & Cognition lab meetings, Concordia University (2022-, co-organizer)
 * Linguistic Circle, University of Edinburgh (2019-2022, co-organizer) 
 * Cognitive Linguistics Research Group, University of Edinburgh (2019-2022, co-organizer)
