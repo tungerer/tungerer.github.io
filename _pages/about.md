@@ -13,15 +13,11 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>----- NEWS: check out my two new books -----</b>
 
-<img align="left" style="margin-right: 20px" width="100" height="160" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
-<img align="right" style="margin-left: 20px" width="100" height="160" src="https://tungerer.github.io/images/Structural_priming_cover.png" /> 
+<img align="left" style="margin-right: 20px" width="150" height="240" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
+<img align="right" style="margin-left: 20px" width="150" height="240" src="https://tungerer.github.io/images/Structural_priming_cover.png" /> 
 <b><i><a href="https://doi.org/10.1017/9781009308717">Constructionist approaches: Past, present, future</a></i></b> (2023, with Stefan Hartmann), Cambridge University Press (Open Access)
-<b><i><a href="https://benjamins.com/catalog/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins
 
-<ul>
-  <li><b><i>Constructionist approaches: Past, present, future</i></b> (with Stefan Hartmann), 2023, Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access here</a>)</li>
-  <li><b><i>Structural priming in the grammatical network</i></b>, 2023, John Benjamins (<a href="https://benjamins.com/catalog/cal.35">here</a>) </li>
-</ul>
+<b><i><a href="https://doi.org/10.1075/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins
 
 At the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a>, our current projects include:
 <ul>
