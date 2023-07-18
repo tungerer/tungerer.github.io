@@ -12,6 +12,8 @@ Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.
 In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
 
 <b>----- NEWS: check out my two new books -----</b>
+
+|![Constructionist approaches](https://tungerer.github.io/images/Constructionist_approaches_cover.jpg)|<b><i>Constructionist approaches: Past, present, future</i></b> (with Stefan Hartmann), 2023, Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access here</a>)|
 <ul>
   <li><b><i>Constructionist approaches: Past, present, future</i></b> (with Stefan Hartmann), 2023, Cambridge University Press (<a href="https://doi.org/10.1017/9781009308717">Open Access here</a>)</li>
   <li><b><i>Structural priming in the grammatical network</i></b>, 2023, John Benjamins (<a href="https://benjamins.com/catalog/cal.35">available here</a>) </li>
