@@ -13,7 +13,7 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>----- NEWS: check out my two new books -----</b>
 
-<img align="left" style="margin-right: 10px" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
+<img align="left" style="margin-right: 20px" width="50" height="80" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
 <b><i><a href="https://doi.org/10.1017/9781009308717">Constructionist approaches: Past, present, future</a></i></b> (with Stefan Hartmann), 2023, Cambridge University Press (Open Access)
 
 <ul>
