@@ -13,8 +13,8 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>---- NEWS: check out my two new books ----</b>
 
-<img align="left" style="margin-right: 20px" width="120" height="200" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
-<img align="right" style="margin-left: 20px" width="120" height="200" src="https://tungerer.github.io/images/Structural_priming_cover.jpg" /> 
+<img align="left" style="margin-right: 20px" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
+<img align="right" style="margin-left: 20px" src="https://tungerer.github.io/images/Structural_priming_cover.jpg" /> 
 
 <b><i><a href="https://doi.org/10.1017/9781009308717">Constructionist approaches: Past, present, future</a></i></b> (2023, with Stefan Hartmann), Cambridge University Press (Open Access)
 
