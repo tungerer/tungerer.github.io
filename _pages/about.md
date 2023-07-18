@@ -13,14 +13,10 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>---- NEWS: check out my two new books ----</b>
 
-<img align="left" style="margin-right: 20px" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
-<img align="right" style="margin-left: 20px" src="https://tungerer.github.io/images/Structural_priming_cover.jpg" /> 
-
-<b><i><a href="https://doi.org/10.1017/9781009308717">Constructionist approaches: Past, present, future</a></i></b> (2023, with Stefan Hartmann), Cambridge University Press (Open Access)
-
-<b><i><a href="https://doi.org/10.1075/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins
-
-<br/>
+<ul>
+  <li><b><i><a href="https://doi.org/10.1017/9781009308717">Constructionist approaches: Past, present, future</a></i></b> (2023, with Stefan Hartmann), Cambridge University Press (Open Access)</li>
+  <li><b><i><a href="https://doi.org/10.1075/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins</li>
+</ul>
 
 My current projects include:
 <ul>
