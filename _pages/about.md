@@ -12,13 +12,15 @@ Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.
 In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
 
 <b>----- NEWS: check out my two new books -----</b>
-
-<img align="left" style="margin-right: 20px" width="150" height="240" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
+|
+<img align="left" style="margin-right: 20px" width="120" height="200" src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" /> 
 <b><i><a href="https://doi.org/10.1017/9781009308717">Constructionist approaches: Past, present, future</a></i></b> (2023, with Stefan Hartmann), Cambridge University Press (Open Access)
 
-<img align="right" style="margin-left: 20px" width="150" height="240" src="https://tungerer.github.io/images/Structural_priming_cover.png" /> 
+<img align="right" style="margin-left: 20px" width="120" height="200" src="https://tungerer.github.io/images/Structural_priming_cover.png" /> 
 <b><i><a href="https://doi.org/10.1075/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins
 <br>
+
+<b>-----  -----</b>
 
 At the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a>, our current projects include:
 <ul>
