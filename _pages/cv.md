@@ -16,14 +16,14 @@ Professional appointments
 
 Education
 ======
-* <b>PhD Linguistics and English Language, University of Edinburgh (2018-2022)</b>
-   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (<a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">download here</a>)
-   * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
-   * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-* <b>Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020)</b>
-* <b>MSc Linguistics (with distinction), University of Edinburgh (2017-2018)</b>
-   * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
-   * Supervisor: Prof. Graeme Trousdale
+<b>PhD Linguistics and English Language, University of Edinburgh (2018-2022)</b>
+* Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (<a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">download here</a>)
+* Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
+* Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
+<b>Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020)</b>
+<b>MSc Linguistics (with distinction), University of Edinburgh (2017-2018)</b>
+* Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
+* Supervisor: Prof. Graeme Trousdale
 * <b>Study year at the University of Cambridge via Erasmus+ (2014-15)</b>
 * <b>BA British Studies and Staatsexamen English/German (with distinction), Leipzig University (2012-2019)</b>
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
