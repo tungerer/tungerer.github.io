@@ -25,7 +25,7 @@ Education
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Prof. Graeme Trousdale
 * <b>Study year at the University of Cambridge (2014-15)</b>
-* <b>BA British Studies and Staatsexamen English/German (with distinction), Leipzig University </br>(2012-2019)</b>
+* <b>BA British Studies and Staatsexamen English/German (w/ distinction), Leipzig University (2012-2019)</b>
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Prof. Doris Schönefeld
 
