@@ -13,7 +13,9 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>----- NEWS: check out my two new books -----</b>
 
-<img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" align = "center" />
+<p align="center">
+<img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" />
+</p>
 
 <ul>
   <li><b><i><a href="https://doi.org/10.1075/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins</li>
