@@ -12,7 +12,8 @@ Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.
 In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
 
 <b>----- NEWS: check out my two new books -----</b>
-<img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" />
+
+<img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" align = "center" />
 
 <ul>
   <li><b><i><a href="https://doi.org/10.1075/cal.35">Structural priming in the grammatical network</a></i></b> (2023), John Benjamins</li>
