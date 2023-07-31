@@ -13,7 +13,7 @@ In my work, I combine experimental and corpus-based methods to investigate lingu
 
 <b>----- NEWS: check out my two new books -----</b>
 <p float="left" >
-  <img src="https://tungerer.github.io/images/Structural_priming_cover.jpg" width="200" />
+  <img src="https://tungerer.github.io/images/Structural_priming_cover2.png" width="200" />
   <img src="https://tungerer.github.io/images/Constructionist_approaches_cover.jpg" width="200" /> 
 </p>
 
