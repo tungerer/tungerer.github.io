@@ -7,8 +7,8 @@ redirect_from:
   - /talks.html
 ---
 
-# Upcoming talks
-# ======
+<!-- Upcoming talks-->
+<!-- ======-->
 
 Invited talks
 ======
