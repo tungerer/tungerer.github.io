@@ -55,9 +55,15 @@ Reviewer experience
 
 Admin experience
 ======
-* CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications), Concordia University (August 2023, co-organizer)
-* Psycholinguistics & Cognition lab meetings, Concordia University (2022-, co-organizer)
-* Linguistic Circle, University of Edinburgh (2019-2022, co-organizer) 
-* Cognitive Linguistics Research Group, University of Edinburgh (2019-2022, co-organizer)
-* Linguistics and English Language Postgraduate Conference,  University of Edinburgh (2019, co-organizer)
+* Co-organizer of the CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications) at Concordia University, Montreal (August 2023)
+* Co-organizer of the Psycholinguistics & Cognition lab meetings at Concordia University (2022-)
+* Co-organizer of the Linguistic Circle colloquium at the University of Edinburgh (2019-2022) 
+* Co-organizer of the Cognitive Linguistics Research Group at the University of Edinburgh (2019-2022)
+* Co-organizer of the Linguistics and English Language Postgraduate Conference at the University of Edinburgh (2019)
+
+Roles and memberships
+======
+* Emerging Scholar Representative of the International Cognitive Linguistics Association (ICLA, 2023-2025)
+* Member of the Cognitive Science Society
+* Member of the German Cognitive Linguistic Association (GCLA)
 
