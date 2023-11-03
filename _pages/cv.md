@@ -50,10 +50,10 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
-* Peer review for the following journals: <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>Languages</i>
-* Abstract review for the following conferences: International Cognitive Linguistics Conference (2023)
+* Peer review for the following journals: <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Languages</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
+* Abstract review for the following conferences: International Cognitive Linguistics Conference (ICLC, 2023), Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
 
-Admin experience
+Administrative experience
 ======
 * Co-organizer of the CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications) at Concordia University, Montreal (August 2023)
 * Co-organizer of the Psycholinguistics & Cognition lab meetings at Concordia University (2022-)
