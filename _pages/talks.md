@@ -6,14 +6,14 @@ author_profile: true
 redirect_from:
   - /talks.html
 ---
-<!--  -->
-
+<!-- 
 Upcoming talks
 ======
-1. <b>Ungerer, Tobias</b> (2023, November 10): How to sneeze a napkin off the table: Online processing of grammatically creative sentences. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
+ -->
 
 Invited talks and workshops
 ======
+1. <b>Ungerer, Tobias</b> (2023, November 10): How to sneeze a napkin off the table: Online processing of grammatically creative sentences. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, Tobias</b> (2022, 23 November): Construction Grammar and implicit arguments. "Topics in Semantics" seminar (led by Prof. Brendan Gillon). McGill University, Montreal, Canada.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, 18-20 April): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
 
