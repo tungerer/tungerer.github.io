@@ -20,12 +20,12 @@ Education
    * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (<a href="https://tungerer.github.io/files/Ungerer-2022-Structural-priming-in-the-grammatical-network.pdf">download here</a>)
    * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
    * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-* <b>Research visit to Prof. Adele Goldberg's lab at Princeton University (Feb-April 2020)</b>
+* <b>Research stay at Prof. Adele Goldberg's lab, Princeton University (Feb-April 2020)</b>
 * <b>MSc Linguistics (with distinction), University of Edinburgh (2017-2018)</b>
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Prof. Graeme Trousdale
 * <b>Study year at the University of Cambridge (2014-15)</b>
-* <b>BA British Studies and Staatsexamen English/German (w/ distinction), Leipzig University (2012-2019)</b>
+* <b>BA British Studies and Staatsexamen English/German (with distinction), Leipzig University (2012-2019)</b>
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Prof. Doris Schönefeld
 
@@ -50,8 +50,8 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
-* Peer review for the following journals: <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Languages</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
-* Abstract review for the following conferences: International Cognitive Linguistics Conference (ICLC, 2023), Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
+* Peer review for the following journals: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Languages</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
+* Abstract review for the following conferences: 10th International Conference of the German Cognitive Linguistics Association (GCLA, 2024), 16th International Cognitive Linguistics Conference (ICLC, 2023), 5th Workshop on Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
 
 Administrative experience
 ======
