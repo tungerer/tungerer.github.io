@@ -11,8 +11,12 @@ redirect_from:
 
 Professional appointments
 ======
-* July 2022 - June 2024: Horizon Postdoctoral Fellow at Concordia University, Montreal
-	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a> (Prof. Roberto G. de Almeida)
+* <b>Oct 2024 - Sept 2026: Postdoctoral Fellow at University of Toronto Scarborough, Toronto</b>
+	* Department of Psychology
+	* Supervisor: <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a>
+* <b>July 2022 - June 2024: Horizon Postdoctoral Fellow at Concordia University, Montreal</b>
+	* Department of Psychology
+	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a> (PI Prof. Roberto G. de Almeida)
 
 Education
 ======
@@ -31,6 +35,7 @@ Education
 
 Awards
 ======
+* UTSC Postdoctoral Fellowship, University of Toronto (2024-2026)
 * Horizon Postdoctoral Fellowship, Concordia University, Montreal (2022-2024)
 * School of Philosophy, Psychology and Language Science PhD Scholarship, University of Edinburgh (2018-2021)
 * Research Support Grants (multiple), University of Edinburgh (2019-2021)
@@ -50,8 +55,8 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
-* Peer review for the following journals: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Languages</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
-* Abstract review for the following conferences: 10th International Conference of the German Cognitive Linguistics Association (GCLA, 2024), 16th International Cognitive Linguistics Conference (ICLC, 2023), 5th Workshop on Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
+* Peer review for the following journals: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>Language and Cognition</i>, <i>Functions of Language</i>, <i>Languages</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
+* Abstract review for the following conferences: 45th Annual Meeting of the Cognitive Science Society (CogSci, 2024), 10th International Conference of the German Cognitive Linguistics Association (GCLA, 2024), 16th International Cognitive Linguistics Conference (ICLC, 2023), 5th Workshop on Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
 
 Administrative experience
 ======

@@ -19,6 +19,7 @@ Monographs
 
 Peer-reviewed articles
 ======
+1. Hartmann, Stefan, and <b>Tobias Ungerer</b>. accepted. <i>"Chaos theory, shmaos theory"</i>: Creativity and routine in English <i>shm</i>-reduplication. In Sabine Arndt-Lappe and Natalia Filatkina (eds.), <i>Dynamics at the lexicon-syntax interface: Creativity and routine in word-formation and multi-word expressions</i> [working title].
 1. <b>Ungerer, Tobias</b>. in press. Vertical and horizontal links in constructional networks: two sides of the same coin? <i>Constructions and Frames</i>. (see the <a href="https://tungerer.github.io/files/Ungerer-forthc-Vertical-and-horizontal-links.pdf">author manuscript</a>)
 1. Neels, Jakob, Stefan Hartmann and <b>Tobias Ungerer</b>. in press. Doch Quantität vor Qualität? Motivationen und Mechanismen des Wandels in einer konstruktionalen Großfamilie deutscher Quantifizierer und Gradmodifizierer. <i>Germanistische Mitteilungen</i>.
 1. Neels, Jakob, Stefan Hartmann and <b>Tobias Ungerer</b>. 2023. A quantum of salience: Reconsidering the role of extravagance in grammaticalization. In Hendrik De Smet, Peter Petré and Benedikt Szmrecsanyi (eds.), <i>Context, intent and variation in grammaticalization</i>, 47&ndash;78. Berlin & Boston: De Gruyter. <a href="https://doi.org/10.1515/9783110753059-003">https://doi.org/10.1515/9783110753059-003</a> (see the <a href="https://github.com/hartmast/degreemodifiers">dataset</a>)
@@ -26,7 +27,6 @@ Peer-reviewed articles
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b>. 2023. Attack of the snowclones: A corpus-based analysis of extravagant formulaic patterns. <i>Journal of Linguistics</i>. Advance online publication. <a href="https://doi.org/10.1017/S0022226723000117">https://doi.org/10.1017/S0022226723000117</a> (see the <a href="https://doi.org/10.31234/osf.io/y6a8g">preprint</a> and the <a href="https://github.com/hartmast/Attack_of_the_snowclones">dataset</a>)
 1. <b>Ungerer, Tobias</b>. 2021. Using structural priming to test links between constructions: English caused-motion and resultative sentences inhibit each other. <i>Cognitive Linguistics</i> 32(3). 389&ndash;420. <a href="https://doi.org/10.1515/cog-2020-0016">https://doi.org/10.1515/cog-2020-0016</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author manuscript</a> and the <a href="https://doi.org/10.18710/2YJITD">dataset</a>)
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann. 2020. Delineating extravagance: Assessing speakers’ perceptions of imaginative constructional patterns. <i>Belgian Journal of Linguistics</i> 34. 345&ndash;356. <a href="https://doi.org/10.1075/bjl.00058.ung">https://doi.org/10.1075/bjl.00058.ung</a> (see the <a href="https://tungerer.github.io/files/Ungerer-Hartmann-2020-Delineating-extravagance.pdf">author manuscript</a> and the <a href="https://doi.org/10.17605/OSF.IO/M4W52">dataset</a>)
-
 
 Non-peer-reviewed articles
 ======
@@ -36,7 +36,6 @@ Non-peer-reviewed articles
 Preprints
 ======
 -->
-
 
 Book reviews
 ======
