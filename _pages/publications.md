@@ -17,7 +17,7 @@ Monographs
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann. 2023. <i>Constructionist approaches: Past, present, future</i>. Cambridge: Cambridge University Press. <a href="https://doi.org/10.1017/9781009308717">https://doi.org/10.1017/9781009308717</a> (Open Access)
 1. <b>Ungerer, Tobias</b>. 2023. <i>Structural priming in the grammatical network</i> (Constructional Approaches to Language 35). Amsterdam & Philadelphia: John Benjamins. <a href="https://doi.org/10.1075/cal.35">https://doi.org/10.1075/cal.35</a>
 
-Peer-reviewed journal articles
+Peer-reviewed publications
 ======
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b>. accepted. <i>"Chaos theory, shmaos theory"</i>: Creativity and routine in English <i>shm</i>-reduplication. In Sabine Arndt-Lappe and Natalia Filatkina (eds.), <i>Dynamics at the lexicon-syntax interface: Creativity and routine in word-formation and multi-word expressions</i> [working title].
 1. Neels, Jakob, Stefan Hartmann and <b>Tobias Ungerer</b>. in press. Doch Quantität vor Qualität? Motivationen und Mechanismen des Wandels in einer konstruktionalen Großfamilie deutscher Quantifizierer und Gradmodifizierer. <i>Germanistische Mitteilungen</i>.
@@ -27,10 +27,6 @@ Peer-reviewed journal articles
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b>. 2023. Attack of the snowclones: A corpus-based analysis of extravagant formulaic patterns. <i>Journal of Linguistics</i>. Advance online publication. <a href="https://doi.org/10.1017/S0022226723000117">https://doi.org/10.1017/S0022226723000117</a> (see the <a href="https://doi.org/10.31234/osf.io/y6a8g">preprint</a> and the <a href="https://github.com/hartmast/Attack_of_the_snowclones">dataset</a>)
 1. <b>Ungerer, Tobias</b>. 2021. Using structural priming to test links between constructions: English caused-motion and resultative sentences inhibit each other. <i>Cognitive Linguistics</i> 32(3). 389&ndash;420. <a href="https://doi.org/10.1515/cog-2020-0016">https://doi.org/10.1515/cog-2020-0016</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2021-Using-structural-priming-to-test-links.pdf">author manuscript</a> and the <a href="https://doi.org/10.18710/2YJITD">dataset</a>)
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann. 2020. Delineating extravagance: Assessing speakers’ perceptions of imaginative constructional patterns. <i>Belgian Journal of Linguistics</i> 34. 345&ndash;356. <a href="https://doi.org/10.1075/bjl.00058.ung">https://doi.org/10.1075/bjl.00058.ung</a> (see the <a href="https://tungerer.github.io/files/Ungerer-Hartmann-2020-Delineating-extravagance.pdf">author manuscript</a> and the <a href="https://doi.org/10.17605/OSF.IO/M4W52">dataset</a>)
-
-Peer-reviewed book chapters
-======
-1. Hartmann,
 
 Non-peer-reviewed publications
 ======
