@@ -10,7 +10,7 @@ redirect_from:
  
 Upcoming talks and posters
 ======
-1. <b>Ungerer, Tobias</b> (2024, April 9): Creative grammar: How speakers comprehend novel argument structure mappings. English Linguistics Circle Research Seminar. University of Santiago de Compostela and University of Vigo, Spain.
+1. <b>Ungerer, Tobias</b> (2024, April 9): Creative grammar: How speakers comprehend novel argument structure mappings. English Linguistics Circle Research Seminar. University of Santiago de Compostela and University of Vigo, Spain. (<a href="https://elc.org.es/?page_id=20">see here for info</a>)
 1. <b>Ungerer, Tobias</b>, Caitlyn Antal, and Roberto G. de Almeida (2024, May 16-18): Sneezing the napkin off the table: Online comprehension of grammatically creative sentences [Poster presentation]. 37th Annual Conference on Human Sentence Processing (HSP). Ann Arbor, MI, USA.
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2024, June 18-22): Language, schmanguage: A corpus-based exploration of the semantics of English shm-reduplication. 45th Annual Conference of the International Computer Archive for Modern and Medieval English (ICAME). Vigo, Spain.
 
