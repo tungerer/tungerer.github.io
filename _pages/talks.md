@@ -10,12 +10,13 @@ redirect_from:
  
 Upcoming talks and posters
 ======
-1. <b>Ungerer, Tobias</b> (2024, April 9): Creative grammar: How speakers comprehend novel argument structure mappings. English Linguistics Circle Research Seminar. University of Santiago de Compostela and University of Vigo, Spain. (<a href="https://elc.org.es/?page_id=20">see here for info</a>)
 1. <b>Ungerer, Tobias</b>, Caitlyn Antal, and Roberto G. de Almeida (2024, May 16-18): Sneezing the napkin off the table: Online comprehension of grammatically creative sentences [Poster presentation]. 37th Annual Conference on Human Sentence Processing (HSP). Ann Arbor, MI, USA.
 1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2024, June 18-22): Language, schmanguage: A corpus-based exploration of the semantics of English shm-reduplication. 45th Annual Conference of the International Computer Archive for Modern and Medieval English (ICAME). Vigo, Spain.
+1. <b>Ungerer, Tobias</b>, and Roberto G. de Almeida (2024, July 24-27): Context affects the comprehension of implicit arguments: Evidence from the maze task [Poster presentation]. Annual Meeting of the Cognitive Science Society. Rotterdam, Netherlands.
 
 Invited talks and workshops
 ======
+1. <b>Ungerer, Tobias</b> (2024, April 9): Creative grammar: How speakers comprehend novel argument mappings. English Linguistics Circle Research Seminar. University of Santiago de Compostela & University of Vigo, Spain.
 1. <b>Ungerer, Tobias</b> (2023, November 10): How to sneeze a napkin off the table: Online processing of grammatically creative sentences. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, Tobias</b> (2022, November 23): Construction Grammar and implicit arguments. "Topics in Semantics" seminar (led by Prof. Brendan Gillon). McGill University, Montreal, Canada.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, April 18-20): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
