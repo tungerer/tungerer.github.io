@@ -16,7 +16,7 @@ Upcoming talks and posters
 
 Invited talks and workshops
 ======
-1. <b>Ungerer, Tobias</b> (2024, April 9): Creative grammar: How speakers comprehend novel argument mappings. English Linguistics Circle Research Seminar. University of Santiago de Compostela & University of Vigo, Spain.
+1. <b>Ungerer, Tobias</b> (2024, April 9): Creative grammar: How speakers comprehend novel argument mappings. English Linguistics Circle Research Seminar. University of Santiago de Compostela & University of Vigo, Spain. (<a href="https://tungerer.github.io/files/Ungerer-2024-ELC-Creative-grammar.pdf">slides</a>)
 1. <b>Ungerer, Tobias</b> (2023, November 10): How to sneeze a napkin off the table: Online processing of grammatically creative sentences. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, Tobias</b> (2022, November 23): Construction Grammar and implicit arguments. "Topics in Semantics" seminar (led by Prof. Brendan Gillon). McGill University, Montreal, Canada.
 1. <b>Ungerer, Tobias</b>, and Stefan Hartmann (2022, April 18-20): Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions. Workshop at the 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
