@@ -11,7 +11,7 @@ redirect_from:
 
 Professional appointments
 ======
-* <b>Oct 2024 - Sept 2026: Postdoctoral Fellow at University of Toronto Scarborough, Toronto</b>
+* <b>Oct 2024 - Sept 2026: Postdoctoral fellow at University of Toronto Scarborough, Toronto</b>
 	* Department of Psychology
 	* Supervisor: <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a>
 * <b>July 2022 - June 2024: Horizon Postdoctoral Fellow at Concordia University, Montreal</b>
