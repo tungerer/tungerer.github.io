@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a Horizon postdoctoral fellow at the <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition lab</a> at Concordia University, Montreal. 
-In my work, I combine experimental and corpus-based methods to investigate linguistic representation and processing.
+Hi! I am a psycholinguist who uses experimental and corpus-based methods to investigate linguistic representation and processing. 
+In October 2024, I will start a postdoc at the University of Toronto, working with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a> 
+on a project that aims to improve early literacy education for children.
 
-Starting in Fall 2024, I will complete a two-year postdoc at the University of Toronto, working with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a>.
 
 <b>----- NEWS: check out my two new books -----</b>
 
