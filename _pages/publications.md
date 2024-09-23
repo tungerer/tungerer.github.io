@@ -19,6 +19,7 @@ Monographs
 Journal articles (\* = peer-reviewed)
 ======
 
+1. <b>\*</b>Hartmann, Stefan, and <b>Tobias Ungerer</b>. in press. Contrastive is the new black: A cross-linguistic study of a "snowclone" in English, German, and Spanish. <i>Quaderns de Filologia: Estudis Lingüístics</i>.
 1. <b>\*</b>Neels, Jakob, Stefan Hartmann and <b>Tobias Ungerer</b>. in press. Doch Quantität vor Qualität? Motivationen und Mechanismen des Wandels in einer konstruktionalen Großfamilie deutscher Quantifizierer und Gradmodifizierer. <i>Germanistische Mitteilungen</i>.
 1. <b>\*</b><b>Ungerer, Tobias</b>. 2024. Vertical and horizontal links in constructional networks: Two sides of the same coin? <i>Constructions and Frames</i>. <a href="https://doi.org/10.1075/cf.22011.ung">https://doi.org/10.1075/cf.22011.ung</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2024-Vertical-and-horizontal-links.pdf">author manuscript</a>)
 1. <b>\*</b><b>Ungerer, Tobias</b>. 2023. A gradient notion of constructionhood. <i>Constructions</i>, Special issue "35 years of constructions". 1&ndash;20. <a href="https://doi.org/10.24338/cons-543">https://doi.org/10.24338/cons-543</a> (see the <a href="https://tungerer.github.io/files/Ungerer-2023-Gradient-constructionhood.pdf">PDF</a>)
@@ -32,9 +33,9 @@ Book chapters (\* = peer-reviewed)
 1. <b>\*</b>Hartmann, Stefan, and <b>Tobias Ungerer</b>. in press. <i>"Chaos theory, shmaos theory"</i>: Creativity and routine in English <i>shm</i>-reduplication. In Sabine Arndt-Lappe and Natalia Filatkina (eds.), <i>Dynamics at the lexicon-syntax interface: Creativity and routine in word-formation and multi-word expressions</i> [working title].
 1. <b>\*</b>Neels, Jakob, Stefan Hartmann and <b>Tobias Ungerer</b>. 2023. A quantum of salience: Reconsidering the role of extravagance in grammaticalization. In Hendrik De Smet, Peter Petré and Benedikt Szmrecsanyi (eds.), <i>Context, intent and variation in grammaticalization</i>, 47&ndash;78. Berlin & Boston: De Gruyter. <a href="https://doi.org/10.1515/9783110753059-003">https://doi.org/10.1515/9783110753059-003</a> (see the <a href="https://github.com/hartmast/degreemodifiers">dataset</a>)
 
-Conference proceedings
+Conference proceedings (\* = peer-reviewed)
 ======
-1. <b>Ungerer, Tobias</b>, and Robert G. de Almeida. in press. Context affects the comprehension of implicit arguments: Evidence from the maze task. <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i>.
+1. <b>\*</b><b>Ungerer, Tobias</b>, and Robert G. de Almeida. 2024. Context affects the comprehension of implicit arguments: Evidence from the maze task. In Larissa K. Samuelson, Stefan L. Frank, Mariya Toneva, Allyson Mackey & Eliot Hazeltine (eds.), <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i>. Cognitive Science Society. <a href="https://escholarship.org/uc/item/2d9716sc">Open Access here</a>
 
 Book reviews
 ======
