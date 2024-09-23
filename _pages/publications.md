@@ -35,7 +35,7 @@ Book chapters (\* = peer-reviewed)
 
 Conference proceedings (\* = peer-reviewed)
 ======
-1. <b>\*</b><b>Ungerer, Tobias</b>, and Robert G. de Almeida. 2024. Context affects the comprehension of implicit arguments: Evidence from the maze task. In Larissa K. Samuelson, Stefan L. Frank, Mariya Toneva, Allyson Mackey & Eliot Hazeltine (eds.), <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i>. Cognitive Science Society. <a href="https://escholarship.org/uc/item/2d9716sc">Open Access here</a>
+1. <b>\*</b><b>Ungerer, Tobias</b>, and Robert G. de Almeida. 2024. Context affects the comprehension of implicit arguments: Evidence from the maze task. In Larissa K. Samuelson, Stefan L. Frank, Mariya Toneva, Allyson Mackey & Eliot Hazeltine (eds.), <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i>. Cognitive Science Society. (<a href="https://escholarship.org/uc/item/2d9716sc">Open Access here</a>)
 
 Book reviews
 ======
