@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a psycholinguist who uses experimental and corpus-based methods to investigate linguistic representation and processing. 
-In October 2024, I will start a postdoc at the University of Toronto, working with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a> 
-on a project that aims to improve early literacy education for children.
+Hi! I'm doing a postdoc at the University of Toronto with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a>. 
+In my work, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language representation, processing, and learning.
 
-
-<b>----- NEWS: check out my two new books -----</b>
+<b>----- NEWS: check out my two books -----</b>
 
 <p align="center">
 <img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" />
@@ -26,8 +24,10 @@ on a project that aims to improve early literacy education for children.
 
 <b>----- Current projects -----</b>
 <ul>
-  <li><b>Grammatical creativity</b>: How do speakers comprehend grammatically "coerced" sentences like <i>She sneezed the napkin off the table</i>?</li>
-  <li><b>Argument structure</b>: How do speakers compose meaning in resultatives (<i>She cut the grass short</i>) as opposed to depictives (<i>He cut the grass wet</i>)?</li>
+  <li><b>Modeling literacy acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., how children learn to map sounds onto letters)?
+  <li><b>Creative argument structure</b>: How do language users comprehend grammatically creative ("coerced") sentences like <i>She sneezed the napkin off the table</i>?</li>
+  <li><b>Evolution of linguistic extravagance</b>: Is speakers' desire to "be extravagant" (i.e., stand out and be noticed) a plausible driver of language change?
+  <li><b>"Snowclone" constructions</b>: How are meme-like idioms like [X <i>is the new</i> Y] used across different languages? 
   <li><b>Implicit arguments</b>: How do speakers infer implicit but unpronounced themes (<i>They were eating [dinner]</i>) and instruments (<i>She was beating the egg [with a whisk]</i>)?</li>
 </ul>
 
