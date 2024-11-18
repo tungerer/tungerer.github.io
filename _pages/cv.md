@@ -11,12 +11,14 @@ redirect_from:
 
 Professional appointments
 ======
-* <b>Oct 2024 - Sept 2026: Postdoctoral fellow at University of Toronto Scarborough, Toronto</b>
+* <b>Nov 2024 - Oct 2026: Postdoctoral fellow at University of Toronto Scarborough, Toronto</b>
 	* Department of Psychology
-	* Supervisor: <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a>
+	* <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory</a>
+	* Supervisor: Dr. Blair C. Armstrong
 * <b>July 2022 - June 2024: Horizon Postdoctoral Fellow at Concordia University, Montreal</b>
 	* Department of Psychology
-	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a> (PI Prof. Roberto G. de Almeida)
+	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a>
+	* Supervisor: Prof. Roberto G. de Almeida)
 
 Education
 ======
