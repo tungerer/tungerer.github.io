@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm doing a postdoc at the University of Toronto with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a>. 
+Hi! I'm a postdoc in Psychology of Language at the University of Toronto, where I work with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a> as part of the <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory (CAP lab)</a>. 
 In my work, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language representation, processing, and learning.
 
-<b>----- NEWS: check out my two books -----</b>
+<b>----- NEWS: check out my two books from 2023 -----</b>
 
 <p align="center">
 <img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" />
@@ -24,11 +24,11 @@ In my work, I combine psycholinguistic experiments, corpus analyses, and computa
 
 <b>----- Current projects -----</b>
 <ul>
-  <li><b>Modeling literacy acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., how children learn to map sounds onto letters)?
+  <li><b>Modeling literacy acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., how children learn to map sounds onto letters)?</li>
   <li><b>Creative argument structure</b>: How do language users comprehend grammatically creative ("coerced") sentences like <i>She sneezed the napkin off the table</i>?</li>
   <li><b>Evolution of linguistic extravagance</b>: Is speakers' desire to "be extravagant" (i.e., stand out and be noticed) a plausible driver of language change?</li>
   <li><b>"Snowclone" constructions</b>: How are meme-like idioms like [X <i>is the new</i> Y] used across different languages?</li>
-  <li><b>Implicit arguments</b>: How do speakers infer implicit but unpronounced themes (<i>They were eating [dinner]</i>) and instruments (<i>She was beating the egg [with a whisk]</i>)?</li>
+  <li><b>Implicit arguments</b>: How do speakers infer implicit but unpronounced themes (e.g., <i>As they were eating &#8709 [dinner], ...</i>)?</li>
 </ul>
 
 <b>----- Other research interests -----</b>
