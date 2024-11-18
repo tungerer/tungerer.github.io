@@ -26,8 +26,8 @@ In my work, I combine psycholinguistic experiments, corpus analyses, and computa
 <ul>
   <li><b>Modeling literacy acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., how children learn to map sounds onto letters)?
   <li><b>Creative argument structure</b>: How do language users comprehend grammatically creative ("coerced") sentences like <i>She sneezed the napkin off the table</i>?</li>
-  <li><b>Evolution of linguistic extravagance</b>: Is speakers' desire to "be extravagant" (i.e., stand out and be noticed) a plausible driver of language change?
-  <li><b>"Snowclone" constructions</b>: How are meme-like idioms like [X <i>is the new</i> Y] used across different languages? 
+  <li><b>Evolution of linguistic extravagance</b>: Is speakers' desire to "be extravagant" (i.e., stand out and be noticed) a plausible driver of language change?</li>
+  <li><b>"Snowclone" constructions</b>: How are meme-like idioms like [X <i>is the new</i> Y] used across different languages?</li>
   <li><b>Implicit arguments</b>: How do speakers infer implicit but unpronounced themes (<i>They were eating [dinner]</i>) and instruments (<i>She was beating the egg [with a whisk]</i>)?</li>
 </ul>
 
