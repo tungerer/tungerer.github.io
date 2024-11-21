@@ -14,26 +14,26 @@ Professional appointments
 * <b>Nov 2024 - Oct 2026: Postdoctoral fellow at University of Toronto Scarborough, Toronto</b>
 	* Department of Psychology
 	* <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory</a>
-	* Supervisor: Dr. Blair C. Armstrong
+	* Supervisor: Blair C. Armstrong
 * <b>July 2022 - June 2024: Horizon Postdoctoral Fellow at Concordia University, Montreal</b>
 	* Department of Psychology
 	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a>
-	* Supervisor: Prof. Roberto G. de Almeida)
+	* Supervisor: Roberto G. de Almeida
 
 Education
 ======
 * <b>PhD Linguistics and English Language, University of Edinburgh (2018-2022)</b>
    * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (see <a href="https://doi.org/10.1075/cal.35">here</a> for the published version)
-   * Supervisors: Prof. Graeme Trousdale, Prof. Nikolas Gisborne, Dr. Chris Cummins
-   * Examiners: Prof. Holly Branigan, Prof. Martin Hilpert
-* <b>Research stay at Prof. Adele Goldberg's lab, Princeton University (Feb-April 2020)</b>
+   * Supervisors: Graeme Trousdale, Nikolas Gisborne, Chris Cummins
+   * Examiners: Holly Branigan, Martin Hilpert
+* <b>Research stay at Adele Goldberg's lab, Princeton University (Feb-April 2020)</b>
 * <b>MSc Linguistics (with distinction), University of Edinburgh (2017-2018)</b>
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
-   * Supervisor: Prof. Graeme Trousdale
+   * Supervisor: Graeme Trousdale
 * <b>Study year at the University of Cambridge (2014-15)</b>
 * <b>BA British Studies and Staatsexamen English/German (with distinction), Leipzig University (2012-2019)</b>
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
-   * Supervisor: Prof. Doris Schönefeld
+   * Supervisor: Doris Schönefeld
 
 Awards
 ======
