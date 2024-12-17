@@ -28,7 +28,6 @@ In my work, I combine psycholinguistic experiments, corpus analyses, and computa
   <li><b>Creative argument structure</b>: How do language users comprehend grammatically creative ("coerced") sentences like <i>She sneezed the napkin off the table</i>?</li>
   <li><b>Evolution of linguistic extravagance</b>: Is speakers' desire to "be extravagant" (i.e., stand out and be noticed) a plausible driver of language change?</li>
   <li><b>"Snowclone" constructions</b>: How are meme-like idioms like [X <i>is the new</i> Y] used across different languages?</li>
-  <li><b>Implicit arguments</b>: How do speakers infer implicit but unpronounced themes (e.g., <i>As they were eating &empty; [dinner], ...</i>)?</li>
 </ul>
 
 <b>----- Other research interests -----</b>
