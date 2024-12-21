@@ -19,7 +19,7 @@ Monographs
 Journal articles (\* = peer-reviewed)
 ======
 
-1. <b>\*</b>Hartmann, S., & <b>Ungerer, T.</b> (in press). Contrastive is the new black: A cross-linguistic study of a "snowclone" in English, German, and Spanish. <i>Quaderns de Filologia: Estudis Lingüístics</i>.
+1. <b>\*</b><b>Ungerer, T.</b>, & Hartmann, S. (2024). Contrastive is the new black: A cross-linguistic study of a "snowclone" in English, German, and Spanish. <i>Quaderns de Filologia: Estudis Lingüístics 29, 217&ndash;235.</i>. <a href="https://doi.org/10.7203/QF.29.28712">https://doi.org/10.7203/QF.29.28712</a> (Open Access)
 1. <b>\*</b>Neels, J., <b>Ungerer, T.</b>, & Hartmann, S. (2024). Doch Quantität vor Qualität? Motivationen und Mechanismen des Wandels in einer konstruktionalen Großfamilie deutscher Quantifizierer und Gradmodifizierer. <i>Germanistische Mitteilungen 50</i>, 13&ndash;39. <a href="https://doi.org/10.33675/GM/2024/50/5">https://doi.org/10.33675/GM/2024/50/5</a> (Open Access)
 1. <b>\*</b><b>Ungerer, T.</b> (2024). Vertical and horizontal links in constructional networks: Two sides of the same coin? <i>Constructions and Frames 16</i>(1), 30&ndash;63. <a href="https://doi.org/10.1075/cf.22011.ung">https://doi.org/10.1075/cf.22011.ung</a> (see <a href="https://tungerer.github.io/files/Ungerer-2024-Vertical-and-horizontal-links.pdf">author manuscript</a>)
 1. <b>\*</b>Hartmann, S., & <b>Ungerer, T.</b> (2024). Attack of the snowclones: A corpus-based analysis of extravagant formulaic patterns. <i>Journal of Linguistics 60</i>(3), 599&ndash;634. <a href="https://doi.org/10.1017/S0022226723000117">https://doi.org/10.1017/S0022226723000117</a> (Open Access; see also <a href="https://github.com/hartmast/Attack_of_the_snowclones">data and code</a>)
