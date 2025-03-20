@@ -45,7 +45,7 @@ Awards
 * PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh (2018)
 * Short-term scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
 * Erasmus+ scholarship for a study year at the University of Cambridge (2014&ndash;2015)
-* Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>) (2012&ndash;2019)
+* Member of the Studienstiftung des deutschen Volkes (German Academic Scholarship Foundation) (2012&ndash;2019)
 
 Publications and talks
 ======
@@ -57,8 +57,8 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
-* Peer review for the following journals: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>English Language and Linguistics</i>, <i>Journal of Historical Linguistics</i>, <Corpus Linguistics and Linguistic Theory>, <i>Language and Cognition</i>, <i>Functions of Language</i>, <i>Languages</i>, <i>Journal of Cognitive Science</i>, <i>Constructions and Frames</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
-* Abstract review for the following conferences: 45th Annual Meeting of the Cognitive Science Society (CogSci, 2024), 10th International Conference of the German Cognitive Linguistics Association (GCLA, 2024), 16th International Cognitive Linguistics Conference (ICLC, 2023), 5th Workshop on Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
+* Peer review for: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>English Language and Linguistics</i>, <i>Journal of Historical Linguistics</i>, <Corpus Linguistics and Linguistic Theory>, <i>Language and Cognition</i>, <i>Functions of Language</i>, <i>Languages</i>, <i>Journal of Cognitive Science</i>, <i>Constructions and Frames</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
+* Abstract review for conferences: Annual Meeting of the Cognitive Science Society (CogSci, 2024), International Cognitive Linguistics Conference (ICLC, 2023, 2025), International Conference of the German Cognitive Linguistics Association (GCLA, 2024), Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
 
 Administrative experience
 ======
