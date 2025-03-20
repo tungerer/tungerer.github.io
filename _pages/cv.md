@@ -22,30 +22,30 @@ Employment
 
 Education
 ======
-* <b>PhD Linguistics and English Language, University of Edinburgh (2018-2022)</b>
-   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (see <a href="https://doi.org/10.1075/cal.35">here</a> for the published version)
+* <b>PhD Linguistics and English Language, University of Edinburgh (2018&ndash;2022)</b>
+   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (see <a href="https://doi.org/10.1075/cal.35">here</a> for the published revised version)
    * Supervisors: Graeme Trousdale, Nikolas Gisborne, Chris Cummins
    * Examiners: Holly Branigan, Martin Hilpert
-* <b>Research stay at Adele Goldberg's lab, Princeton University (Feb-April 2020)</b>
-* <b>MSc Linguistics (with distinction), University of Edinburgh (2017-2018)</b>
+* <b>Research stay at Adele Goldberg's lab, Princeton University (Feb&ndash;April 2020)</b>
+* <b>MSc Linguistics, University of Edinburgh (2017&ndash;2018)</b>
    * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Graeme Trousdale
-* <b>Study year at the University of Cambridge (2014-15)</b>
-* <b>BA British Studies and Staatsexamen English/German (with distinction), Leipzig University (2012-2019)</b>
+* <b>Undergraduate studies at the University of Cambridge (2014&ndash;15)</b>
+* <b>BA British Studies and Staatsexamen English/German, Leipzig University (2012&ndash;2019)</b>
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Doris Schönefeld
 
 Awards
 ======
-* UTSC Postdoctoral Fellowship, University of Toronto (2024-2026)
-* Horizon Postdoctoral Fellowship, Concordia University, Montreal (2022-2024)
-* School of Philosophy, Psychology and Language Science PhD Scholarship, University of Edinburgh (2018-2021)
-* Research Support Grants (multiple), University of Edinburgh (2019-2021)
+* UTSC Postdoctoral Fellowship, University of Toronto (2024&ndash;2026)
+* Horizon Postdoctoral Fellowship, Concordia University, Montreal (2022&ndash;2024)
+* School of Philosophy, Psychology and Language Science PhD Scholarship, University of Edinburgh (2018&ndash;2021)
+* Research Support Grants (multiple), University of Edinburgh (2019&ndash;2021)
 * Go Abroad Fund, University of Edinburgh (2019)
 * PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh (2018)
 * Short-term scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
-* Erasmus+ scholarship for a study year at the University of Cambridge (2014-2015)
-* Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>) (2012-2019)
+* Erasmus+ scholarship for a study year at the University of Cambridge (2014&ndash;2015)
+* Member of the German Academic Scholarship Foundation (<i>Studienstiftung des deutschen Volkes</i>) (2012&ndash;2019)
 
 Publications and talks
 ======
@@ -63,14 +63,13 @@ Reviewer experience
 Administrative experience
 ======
 * Co-organizer of the CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications) at Concordia University, Montreal (August 2023)
-* Co-organizer of the Psycholinguistics & Cognition lab meetings at Concordia University (2022-)
-* Co-organizer of the Linguistic Circle colloquium at the University of Edinburgh (2019-2022) 
-* Co-organizer of the Cognitive Linguistics Research Group at the University of Edinburgh (2019-2022)
+* Co-organizer of the Linguistic Circle colloquium at the University of Edinburgh (2019&ndash;2022) 
+* Co-organizer of the Cognitive Linguistics Research Group at the University of Edinburgh (2019&ndash;2022)
 * Co-organizer of the Linguistics and English Language Postgraduate Conference at the University of Edinburgh (2019)
 
 Roles and memberships
 ======
-* Emerging Scholar Representative of the International Cognitive Linguistics Association (ICLA, 2023-2025)
+* Emerging Scholar Representative of the International Cognitive Linguistics Association (ICLA, 2023&ndash;2025)
 * Member of the Cognitive Science Society
 * Member of the German Cognitive Linguistic Association (GCLA)
 
