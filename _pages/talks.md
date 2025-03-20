@@ -6,11 +6,14 @@ author_profile: true
 redirect_from:
   - /talks.html
 ---
+ 
 <!--  
-Upcoming talks and posters
+--->
+Upcoming presentations and theme sessions
 ======
--->
-
+1. <b>Ungerer, Tobias</b> (2025, April 11): [Title TBC]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
+1. Hartmann, Stefan, and <b>Tobias Ungerer</b> (2025, July 14-18): Extravagance and creativity through the empirical lens. Theme session at the 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
+1. <b>Ungerer, Tobias</b>, Theresa Matzinger, Michael Pleyer, and Stefan Hartmann (2025, July 14-18): Extravagance in the lab: How social biases influence the emergence of linguisticinnovations. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
 
 Invited talks and workshops
 ======
