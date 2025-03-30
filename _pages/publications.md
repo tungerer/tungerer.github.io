@@ -31,7 +31,7 @@ Journal articles (\* = peer-reviewed)
 Book chapters (\* = peer-reviewed)
 ======
 1. <b>\*</b>Hartmann, S., & <b>Ungerer, T.</b> (in press). <i>"Chaos theory, shmaos theory"</i>: Creativity and routine in English <i>shm</i>-reduplication. In S. Arndt-Lappe & N. Filatkina (Eds.), <i>Dynamics at the lexicon-syntax interface: Creativity and routine in word-formation and multi-word expressions</i> [working title].
-1. <b>\*</b>Neels, J., Hartmann, S., & <b>Ungerer, T.</b> (2023). A quantum of salience: Reconsidering the role of extravagance in grammaticalization. In H. De Smet, P. Petré, & B. Szmrecsanyi (Eds.), <i>Context, intent and variation in grammaticalization</i> (pp. 47&ndash;78). Berlin & Boston: De Gruyter. <a href="https://doi.org/10.1515/9783110753059-003">https://doi.org/10.1515/9783110753059-003</a> (see <a href="https://github.com/hartmast/degreemodifiers">data and code</a>)
+1. <b>\*</b>Neels, J., Hartmann, S., & <b>Ungerer, T.</b> (2023). A quantum of salience: Reconsidering the role of extravagance in grammaticalization. In H. De Smet, P. Petré, & B. Szmrecsanyi (Eds.), <i>Context, intent and variation in grammaticalization</i> (pp. 47&ndash;78). Berlin & Boston: De Gruyter. <a href="https://doi.org/10.1515/9783110753059-003">https://doi.org/10.1515/9783110753059-003</a> (see <a href="https://tungerer.github.io/files/Neels-et-al-2023-A-quantum-of-salience.pdf">author manuscript</a> and <a href="https://github.com/hartmast/degreemodifiers">data and code</a>)
 
 Conference proceedings (\* = peer-reviewed)
 ======
