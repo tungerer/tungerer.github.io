@@ -12,9 +12,11 @@ redirect_from:
 
 Upcoming presentations and theme sessions
 ======
-1. <b>Ungerer, T.</b> (2025, April 11). [Title TBC] [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
-1. Hartmann, S., & <b>Ungerer, T.</b> (2025, July 14&ndash;18). Extravagance and creativity through the empirical lens [Conference theme session]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
+1. <b>Ungerer, T.</b> (2025, April 11). The influence of social biases on linguistic innovation: An artificial language learning approach [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
+1. Hartmann, S., & <b>Ungerer, T.</b> (2025, July 14&ndash;18). Extravagance and creativity through the empirical lens [Theme session]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, July 14&ndash;18). Extravagance in the lab: How social biases influence the emergence of linguistic innovations [Paper presentation]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
+1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, July 30&ndash;August 2). How social biases influence the emergence of linguistic innovations: An artificial language learning study [Poster presentation]. 47th Annual Meeting of the Cognitive Science Society. San Francisco, USA.
+1. Hartmann, S., & <b>Ungerer, T.</b> (2025, August 26&ndash;29). Probing deeper into No Equivalence: A usage-based, radically dynamic perspective [Paper presentation]. 58th Annual Meeting of the Societas Linguistica Europaea (SLE). Bordeaux, France.
 
 Invited talks and workshops
 ======

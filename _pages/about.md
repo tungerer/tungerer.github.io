@@ -11,7 +11,7 @@ redirect_from:
 Hi! I'm a postdoc in Psychology of Language at the University of Toronto, where I work with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a> as part of the <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory (CAP lab)</a>. 
 In my work, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language representation, processing, and learning.
 
-<b>----- NEWS: have a look at my two books from 2023 -----</b>
+<b>----- NEWS: check out my two recent books -----</b>
 
 <p align="center">
 <img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" />
