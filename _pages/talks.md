@@ -12,16 +12,13 @@ redirect_from:
 
 Upcoming presentations and theme sessions
 ======
-1. <b>Ungerer, T.</b> (2025, April 11). The influence of social biases on linguistic innovation: An artificial language learning approach [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. Hartmann, S., & <b>Ungerer, T.</b> (2025, July 14&ndash;18). Extravagance and creativity through the empirical lens [Theme session]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, July 14&ndash;18). Extravagance in the lab: How social biases influence the emergence of linguistic innovations [Paper presentation]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
-1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, July 30&ndash;August 2). How social biases influence the emergence of linguistic innovations: An artificial language learning study [Poster presentation]. 47th Annual Meeting of the Cognitive Science Society. San Francisco, USA.
 1. Hartmann, S., & <b>Ungerer, T.</b> (2025, August 26&ndash;29). Probing deeper into No Equivalence: A usage-based, radically dynamic perspective [Paper presentation]. 58th Annual Meeting of the Societas Linguistica Europaea (SLE). Bordeaux, France.
 
 Invited talks and workshops
 ======
 1. <b>Ungerer, T.</b> (2024, April 9). Creative grammar: How speakers comprehend novel argument mappings [Paper presentation]. English Linguistics Circle Research Seminar. University of Santiago de Compostela & University of Vigo, Spain. (<a href="https://tungerer.github.io/files/Ungerer-2024-ELC-Creative-grammar.pdf">slides</a>)
-1. <b>Ungerer, T.</b> (2023, November 10). How to sneeze a napkin off the table: Online processing of grammatically creative sentences [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, T.</b> (2022, November 23). Construction Grammar and implicit arguments [Paper presentation]. "Topics in Semantics" seminar. McGill University, Montreal, Canada.
 1. <b>Ungerer, T.</b>, & Hartmann, S. (2022, April 18&ndash;20). Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions [Conference workshop]. 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
 
@@ -53,6 +50,8 @@ Conference presentations
 
 Research group presentations
 ======
+1. <b>Ungerer, T.</b> (2025, April 11). The influence of social biases on linguistic innovation: An artificial language learning approach [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
+1. <b>Ungerer, T.</b> (2023, November 10). How to sneeze a napkin off the table: Online processing of grammatically creative sentences [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, T.</b> (2021, May 14). Network science methods - a potential toolkit for cognitive linguistics? [Paper presentation] Cognitive Linguistics Research Group. University of Edinburgh, Edinburgh, UK. (<a href="https://tungerer.github.io/files/Ungerer-2021-Network-science-methods.pdf">slides</a>)
 1. <b>Ungerer, T.</b> (2021, February 10). Structural priming meets Construction Grammar: Using priming to explore networks of constructions [Paper presentation]. Psycholinguistics Coffee research seminar. University of Edinburgh, Edinburgh, UK. (<a href="https://tungerer.github.io/files/Ungerer-2021-Structural-priming-meets-Construction-Grammar.pdf">slides</a>)
 
