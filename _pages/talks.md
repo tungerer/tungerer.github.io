@@ -10,7 +10,7 @@ redirect_from:
 <!--  
 -->
 
-Upcoming presentations and theme sessions
+Upcoming presentations
 ======
 1. Hartmann, S., & <b>Ungerer, T.</b> (2025, August 26&ndash;29). Probing deeper into No Equivalence: A usage-based, radically dynamic perspective [Paper presentation]. 58th Annual Meeting of the Societas Linguistica Europaea (SLE). Bordeaux, France.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, September 1&ndash;3). Testing extravagance with experiments: An artificial language learning approach to constructional creativity [Paper presentation]. 2nd Annual Meeting of Language & Languages at the crossroads of Disciplines (LLcD). Lille, France.
