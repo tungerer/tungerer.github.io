@@ -57,7 +57,7 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
   
 Reviewer experience
 ======
-* Peer review for: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>English Language and Linguistics</i>, <i>Journal of Historical Linguistics</i>, <i>Language and Cognition</i>, <i>Functions of Language</i>, <i>Languages</i>, <i>Journal of Cognitive Science</i>, <i>Constructions and Frames</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
+* Peer review for: <i>Journal of Linguistics</i>, <i>Cognitive Linguistics</i>, <i>English Language and Linguistics</i>, <i>Journal of Historical Linguistics</i>, <i>Corpus Linguistics and Linguistic Theory</i>, <i>Language and Cognition</i>, <i>Functions of Language</i>, <i>Languages</i>, <i>Journal of Cognitive Science</i>, <i>Constructions and Frames</i>, <i>Constructions</i>, <i>Yearbook of Phraseology</i>, <i>CogniTextes</i>, <i>Arts & Communication</i>
 * Abstract review for conferences: Annual Meeting of the Cognitive Science Society (CogSci, 2024), International Cognitive Linguistics Conference (ICLC, 2023, 2025), International Conference of the German Cognitive Linguistics Association (GCLA, 2024), Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
 
 Administrative experience
