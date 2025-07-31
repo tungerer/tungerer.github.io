@@ -62,12 +62,13 @@ Reviewer experience
 
 Administrative experience
 ======
+* Co-organizer of theme session "Extravagance and creativity through the empirical lens" at the 17th International Cognitive Linguistics Conference, Buenos Aires, Argentina (July 2025)
 * Co-organizer of the CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications) at Concordia University, Montreal (August 2023)
 * Co-organizer of the Linguistic Circle colloquium at the University of Edinburgh (2019&ndash;2022) 
 * Co-organizer of the Cognitive Linguistics Research Group at the University of Edinburgh (2019&ndash;2022)
 * Co-organizer of the Linguistics and English Language Postgraduate Conference at the University of Edinburgh (2019)
 
-Roles and memberships
+Academic service and memberships
 ======
 * Emerging Scholar Representative of the International Cognitive Linguistics Association (ICLA, 2023&ndash;2025)
 * Member of the Cognitive Science Society
