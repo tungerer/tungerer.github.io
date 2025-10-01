@@ -8,13 +8,10 @@ redirect_from:
 ---
  
 <!--  
--->
 
 Upcoming presentations
 ======
-1. Hartmann, S., & <b>Ungerer, T.</b> (2025, August 26&ndash;29). Probing deeper into No Equivalence: A usage-based, radically dynamic perspective [Paper presentation]. 58th Annual Meeting of the Societas Linguistica Europaea (SLE). Bordeaux, France.
-1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, September 1&ndash;3). Testing extravagance with experiments: An artificial language learning approach to constructional creativity [Paper presentation]. 2nd Annual Meeting of Language & Languages at the crossroads of Disciplines (LLcD). Lille, France.
-1. <b>Ungerer, T.</b>, & Hartmann, S. (2025, September 17&ndash;19). Contrastive is the new black: A cross-linguistic study of a “snowclone” in English, German, and Spanish [Paper presentation].  11th International Contrastive Linguistics Conference (ICLC). Prague, Czech Republic.
+-->
 
 
 Invited talks and workshops
@@ -30,6 +27,9 @@ Conference theme sessions
 Conference presentations
 ======
 
+1. <b>Ungerer, T.</b>, & Hartmann, S. (2025, September 17&ndash;19). Contrastive is the new black: A cross-linguistic study of a “snowclone” in English, German, and Spanish [Paper presentation].  11th International Contrastive Linguistics Conference (ICLC). Prague, Czech Republic.
+1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, September 1&ndash;3). Testing extravagance with experiments: An artificial language learning approach to constructional creativity [Paper presentation]. 2nd Annual Meeting of Language & Languages at the crossroads of Disciplines (LLcD). Lille, France.
+1. Hartmann, S., & <b>Ungerer, T.</b> (2025, August 26&ndash;29). Probing deeper into No Equivalence: A usage-based, radically dynamic perspective [Paper presentation]. 58th Annual Meeting of the Societas Linguistica Europaea (SLE). Bordeaux, France.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, July 14&ndash;18). Extravagance in the lab: How social biases influence the emergence of linguistic innovations [Paper presentation]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
 1. <b>Ungerer, T.</b>, & de Almeida, R. G. (2024, July 24&ndash;27). Context affects the comprehension of implicit arguments: Evidence from the maze task [Poster presentation]. 46th Annual Meeting of the Cognitive Science Society. Rotterdam, Netherlands. (<a href="https://tungerer.github.io/files/Ungerer-de-Almeida-2024-Implicit-arguments-in-the-maze.pdf">poster</a>)
 1. Hartmann, S., & <b>Ungerer, T.</b> (2024, June 18&ndash;22). Language, schmanguage: A corpus-based exploration of the semantics of English shm-reduplication [Paper presentation]. 45th Annual Conference of the International Computer Archive for Modern and Medieval English (ICAME). Vigo, Spain.
