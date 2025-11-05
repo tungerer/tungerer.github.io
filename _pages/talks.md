@@ -14,19 +14,18 @@ Upcoming presentations
 -->
 
 
-Invited talks and workshops
+Invited Talks and Workshops
 ======
 1. <b>Ungerer, T.</b> (2024, April 9). Creative grammar: How speakers comprehend novel argument mappings [Paper presentation]. English Linguistics Circle Research Seminar. University of Santiago de Compostela & University of Vigo, Spain. (<a href="https://tungerer.github.io/files/Ungerer-2024-ELC-Creative-grammar.pdf">slides</a>)
 1. <b>Ungerer, T.</b> (2022, November 23). Construction Grammar and implicit arguments [Paper presentation]. "Topics in Semantics" seminar. McGill University, Montreal, Canada.
 1. <b>Ungerer, T.</b>, & Hartmann, S. (2022, April 18&ndash;20). Snowclones on the workbench: Using state-of-the-art corpus methods to study formulaic constructions [Conference workshop]. 1st Projeto PREDICAR Congress. Rio de Janeiro, Brazil.
 
-Conference theme sessions
+Conference Theme Sessions Convened
 ======
 1. Hartmann, S., & <b>Ungerer, T.</b> (2025, July 14&ndash;18). Extravagance and creativity through the empirical lens [Theme session]. 17th International Cognitive Linguistics Conference. Buenos Aires, Argentina.
 
-Conference presentations
+Conference Presentations
 ======
-
 1. <b>Ungerer, T.</b>, & Hartmann, S. (2025, September 17&ndash;19). Contrastive is the new black: A cross-linguistic study of a “snowclone” in English, German, and Spanish [Paper presentation].  11th International Contrastive Linguistics Conference (ICLC). Prague, Czech Republic.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, September 1&ndash;3). Testing extravagance with experiments: An artificial language learning approach to constructional creativity [Paper presentation]. 2nd Annual Meeting of Language & Languages at the crossroads of Disciplines (LLcD). Lille, France.
 1. Hartmann, S., & <b>Ungerer, T.</b> (2025, August 26&ndash;29). Probing deeper into No Equivalence: A usage-based, radically dynamic perspective [Paper presentation]. 58th Annual Meeting of the Societas Linguistica Europaea (SLE). Bordeaux, France.
@@ -54,8 +53,9 @@ Conference presentations
 1. <b>Ungerer, T.</b> (2019, August 6&ndash;11). Using structural priming to test links between constructions: Priming between caused-motion and resultatives sentences [Paper presentation]. 15th International Cognitive Linguistics Conference (ICLC). Nishinomiya, Japan. (<a href="https://tungerer.github.io/files/Ungerer-2019-ICLC-Using-structural-priming-to-test-links.pdf">slides</a>)
 1. <b>Ungerer, T.</b> (2019, June 4&ndash;7). The concept of ‘inheritance’ in grammatical theory – What is it and which questions does it raise? [Paper presentation] 25th Linguistics and English Language Postgraduate Conference (LELPGC). Edinburgh, UK.
 
-Research group presentations
+Research Group Presentations
 ======
+1. <b>Ungerer, T.</b> (2025, May 28&ndash;29). Novel sense extension in poetic language: An experimental and computational approach to aesthetic appreciation [Paper presentation]. University College London – University of Toronto collaborative workshop. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, T.</b> (2025, April 11). The influence of social biases on linguistic innovation: An artificial language learning approach [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, T.</b> (2023, November 10). How to sneeze a napkin off the table: Online processing of grammatically creative sentences [Paper presentation]. Cognitive Science of Language colloquium. University of Toronto, Toronto, Canada.
 1. <b>Ungerer, T.</b> (2021, May 14). Network science methods - a potential toolkit for cognitive linguistics? [Paper presentation] Cognitive Linguistics Research Group. University of Edinburgh, Edinburgh, UK. (<a href="https://tungerer.github.io/files/Ungerer-2021-Network-science-methods.pdf">slides</a>)
