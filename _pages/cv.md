@@ -35,7 +35,7 @@ Education
    * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Doris Schönefeld
 
-Grants and Awards
+Grants and awards
 ======
 * Collaborator on Insight Development Grant, Social Sciences and Humanities Research Council, Canada (2025&ndash;2027)
 * UTSC Postdoctoral Fellowship, University of Toronto (2024&ndash;2026)
@@ -48,42 +48,42 @@ Grants and Awards
 * Erasmus+ scholarship for a study year at the University of Cambridge (2014&ndash;2015)
 * Member of the Studienstiftung des deutschen Volkes (German Academic Scholarship Foundation) (2012&ndash;2019)
 
-Publications and Talks
+Publications and talks
 ======
 See <a href="https://tungerer.github.io/publications/">here for publications</a> and <a href="https://tungerer.github.io/talks/">here for talks</a>
   
-Teaching Experience
+Teaching experience
 ======
 See <a href="https://tungerer.github.io/teaching/">here</a>
   
-Academic Service
+Academic service
 ======
 
-Reviewing for Journals
+Reviewing for journals
 ------
 * <i>Journal of Linguistics</i>
-<i>Cognitive Linguistics</i>
-<i>English Language and Linguistics</i>
-<i>Journal of Historical Linguistics</i>
-<i>Corpus Linguistics and Linguistic Theory</i>
-<i>Language and Cognition</i>
-<i>Functions of Language</i>
-<i>Languages</i>
-<i>Journal of Cognitive Science</i>
-<i>Constructions and Frames</i>
-<i>Constructions</i>
-<i>Yearbook of Phraseology</i>
-<i>CogniTextes</i>
-<i>Arts & Communication</i>
-<i>Proceedings of the Cognitive Science Society Annual Meetings</i>
+* <i>Cognitive Linguistics</i>
+* <i>English Language and Linguistics</i>
+* <i>Journal of Historical Linguistics</i>
+* <i>Corpus Linguistics and Linguistic Theory</i>
+* <i>Language and Cognition</i>
+* <i>Functions of Language</i>
+* <i>Languages</i>
+* <i>Journal of Cognitive Science</i>
+* <i>Constructions and Frames</i>
+* <i>Constructions</i>
+* <i>Yearbook of Phraseology</i>
+* <i>CogniTextes</i>
+* <i>Arts & Communication</i>
 
-Scientific Committee for Conferences
+Abstract review for conferences
 ------
 * International Cognitive Linguistics Conference (ICLC, 2023, 2025)
+* Annual Meeting of the Cognitive Science Society (2024)
 * International Conference of the German Cognitive Linguistics Association (GCLA, 2024)
 * Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
 
-Academic Events
+Academic events
 ------
 * Co-organizer of theme session "Extravagance and creativity through the empirical lens" at the 17th International Cognitive Linguistics Conference, Buenos Aires, Argentina (July 2025)
 * Co-organizer of the CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications) at Concordia University, Montreal (August 2023)
