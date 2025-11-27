@@ -24,9 +24,9 @@ In my work, I combine psycholinguistic experiments, corpus analyses, and computa
 
 <b>----- Current projects -----</b>
 <ul>
-  <li><b>Modeling literacy acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., teaching children how to map letters to sounds)?</li>
-  <li><b>Creative argument structure</b>: How do language users comprehend grammatically creative ("coerced") sentences like <i>She sneezed the napkin off the table</i>?</li>
-  <li><b>Evolution of linguistic extravagance</b>: Is speakers' desire to "be extravagant" (i.e., stand out and be noticed) a plausible driver of language change?</li>
+  <li><b>Modeling early reading acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., teaching children how to map letters to sounds)?</li>
+  <li><b>Creative language comprehension</b>: How do language users comprehend grammatically novel expressions, such as <i>She timelined the project</i> (noun-to-verb conversion) or <i>He sneezed the napkin off the table</i> (valency coercion)?</li>
+  <li><b>The evolution of linguistic innovations</b>: How does the social desire to stand out from others ("extravagance") or blend in with them ("conformity") influence language change?</li>
 </ul>
 
 <b>----- Other research interests -----</b>

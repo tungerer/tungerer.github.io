@@ -76,7 +76,7 @@ Reviewing for journals
 * <i>CogniTextes</i>
 * <i>Arts & Communication</i>
 
-Abstract review for conferences
+Reviewing for conferences
 ------
 * International Cognitive Linguistics Conference (ICLC, 2023, 2025)
 * Annual Meeting of the Cognitive Science Society (2024)

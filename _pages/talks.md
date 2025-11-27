@@ -8,10 +8,11 @@ redirect_from:
 ---
  
 <!--  
+-->
 
 Upcoming presentations
 ======
--->
+1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2026, February 10&ndash;11). Social meaning and grammar in artificial language learning experiments:  A case study on extravagance and conformity [Paper presentation]. Workshop on "Social Meaning and Grammar". Zurich, Switzerland.
 
 
 Invited talks and workshops
