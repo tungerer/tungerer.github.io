@@ -24,9 +24,9 @@ In my work, I combine psycholinguistic experiments, corpus analyses, and computa
 
 <b>----- Current projects -----</b>
 <ul>
-  <li><b>Modeling early reading acquisition</b>: How can neural network simulations help us optimize phonics instruction (i.e., teaching children how to map letters to sounds)?</li>
-  <li><b>Creative language comprehension</b>: How do language users comprehend grammatically novel expressions, such as <i>She timelined the project</i> (noun-to-verb conversion) or <i>He sneezed the napkin off the table</i> (valency coercion)?</li>
-  <li><b>The evolution of linguistic innovations</b>: How do social desires to stand out from one's peers ("extravagance") or blend in with others ("conformity") bring about language change?</li>
+  <li><b>Early reading acquisition</b>: How can we combine experimental approaches and neural networks to optimize phonics instruction (i.e., teaching children how to map letters to sounds)?</li>
+  <li><b>Creative language comprehension</b>: How do language users comprehend grammatically novel expressions, such as <i>She timelined the project</i> (noun-to-verb conversion) or <i>He sneezed the napkin off the table</i> (valency coercion)?</li> (see our <a href="https://doi.org/10.1037/xlm0001568">new paper</a> on the real-time comprehension of valency coercion)
+  <li><b>The evolution of linguistic innovations</b>: How do social desires to stand out from one's peers ("extravagance") or blend in with others ("conformity") give rise to language change?</li>
 </ul>
 
 <b>----- Other research interests -----</b>

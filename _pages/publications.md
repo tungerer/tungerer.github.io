@@ -18,7 +18,7 @@ Monographs
 
 Journal articles (\* = peer-reviewed)
 ======
-1. <b>\*</b><b>Ungerer, T.</b>, Antal, C., & Almeida, R. G. de. (in press). How to sneeze a napkin off the table: Understanding grammatically creative, coerced sentences in real time. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>.
+1. <b>\*</b><b>Ungerer, T.</b>, Antal, C., & de Almeida, R. G. (2026). How to sneeze a napkin off the table: Understanding grammatically creative, coerced sentences in real time. <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>. <a href="https://doi.org/10.1037/xlm0001568">https://doi.org/10.1037/xlm0001568</a>
 1. <b>\*</b><b>Ungerer, T.</b>, & Hartmann, S. (2024). Contrastive is the new black: A cross-linguistic study of a "snowclone" in English, German, and Spanish. <i>Quaderns de Filologia: Estudis Lingüístics 29</i>, 217&ndash;235. <a href="https://doi.org/10.7203/QF.29.28712">https://doi.org/10.7203/QF.29.28712</a> (Open Access)
 1. <b>\*</b>Neels, J., <b>Ungerer, T.</b>, & Hartmann, S. (2024). Doch Quantität vor Qualität? Motivationen und Mechanismen des Wandels in einer konstruktionalen Großfamilie deutscher Quantifizierer und Gradmodifizierer. <i>Germanistische Mitteilungen 50</i>, 13&ndash;39. <a href="https://doi.org/10.33675/GM/2024/50/5">https://doi.org/10.33675/GM/2024/50/5</a> (Open Access)
 1. <b>\*</b><b>Ungerer, T.</b> (2024). Vertical and horizontal links in constructional networks: Two sides of the same coin? <i>Constructions and Frames 16</i>(1), 30&ndash;63. <a href="https://doi.org/10.1075/cf.22011.ung">https://doi.org/10.1075/cf.22011.ung</a> (see <a href="https://tungerer.github.io/files/Ungerer-2024-Vertical-and-horizontal-links.pdf">author manuscript</a>)
@@ -35,7 +35,7 @@ Book chapters (\* = peer-reviewed)
 
 Conference proceedings (\* = peer-reviewed)
 ======
-1. <b>\*</b><b>Ungerer, T.</b>, & de Almeida, Robert G. (2024). Context affects the comprehension of implicit arguments: Evidence from the maze task. In L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i> (pp. 5566&ndash;5572). Cognitive Science Society. (<a href="https://escholarship.org/uc/item/2d9716sc">Open Access here</a>)
+1. <b>\*</b><b>Ungerer, T.</b>, & de Almeida, R. G. (2024). Context affects the comprehension of implicit arguments: Evidence from the maze task. In L. K. Samuelson, S. L. Frank, M. Toneva, A. Mackey & E. Hazeltine (Eds.), <i>Proceedings of the 46th Annual Meeting of the Cognitive Science Society</i> (pp. 5566&ndash;5572). Cognitive Science Society. (<a href="https://escholarship.org/uc/item/2d9716sc">Open Access here</a>)
 
 Book reviews
 ======
