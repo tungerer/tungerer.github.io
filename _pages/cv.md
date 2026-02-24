@@ -11,19 +11,19 @@ redirect_from:
 
 Employment
 ======
-* <b>Nov 2024 &ndash; Oct 2026: Postdoctoral fellow, University of Toronto</b>
-	* Department of Psychology
-	* <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory</a>
+* <b>April 2026&ndash;March 2027: Acting Chair of Modern English Linguistics, LMU Munich</b>
+	* Department of English Philology
+* <b>Nov 2024&ndash;March 2026: Postdoctoral fellow, University of Toronto</b>
+	* Department of Psychology, <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory</a>
 	* Supervisor: Blair C. Armstrong
-* <b>July 2022 &ndash; June 2024: Horizon Postdoctoral Fellow, Concordia University, Montreal</b>
-	* Department of Psychology
-	* <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a>
+* <b>July 2022&ndash;June 2024: Horizon Postdoctoral Fellow, Concordia University, Montreal</b>
+	* Department of Psychology, <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a>
 	* Supervisor: Roberto G. de Almeida
 
 Education
 ======
 * <b>PhD Linguistics and English Language, University of Edinburgh (2018&ndash;2022)</b>
-   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (see <a href="https://doi.org/10.1075/cal.35">here</a> for the published revised version)
+   * Thesis: "Structural priming in the grammatical network: A study of English argument structure constructions" (see <a href="https://doi.org/10.1075/cal.35">here</a> for the published version)
    * Supervisors: Graeme Trousdale, Nikolas Gisborne, Chris Cummins
    * Examiners: Holly Branigan, Martin Hilpert
 * <b>Research stay at Adele Goldberg's lab, Princeton University (Feb&ndash;April 2020)</b>
