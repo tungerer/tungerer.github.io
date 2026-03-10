@@ -14,10 +14,10 @@ Employment
 * <b>April 2026&ndash;March 2027: Acting Chair of Modern English Linguistics, LMU Munich</b>
 	* Department of English Philology
 * <b>Nov 2024&ndash;March 2026: Postdoctoral fellow, University of Toronto</b>
-	* Department of Psychology, <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory</a>
+	* Department of Psychology, Computation and Psycholinguistics Laboratory
 	* Supervisor: Blair C. Armstrong
 * <b>July 2022&ndash;June 2024: Horizon Postdoctoral Fellow, Concordia University, Montreal</b>
-	* Department of Psychology, <a href="https://psycholinguistics.weebly.com/">Psycholinguistics & Cognition Lab</a>
+	* Department of Psychology, Psycholinguistics & Cognition Lab
 	* Supervisor: Roberto G. de Almeida
 
 Education
@@ -46,7 +46,7 @@ Grants and awards
 * PPLS Highly Commended Dissertation Award for MSc dissertation, University of Edinburgh (2018)
 * Short-term scholarship from the German Academic Exchange Service (DAAD) for a three-month internship in Tokyo, Japan (2017)
 * Erasmus+ scholarship for a study year at the University of Cambridge (2014&ndash;2015)
-* Member of the Studienstiftung des deutschen Volkes (German Academic Scholarship Foundation) (2012&ndash;2019)
+* Member of the <i>Studienstiftung des deutschen Volkes</i> (German Academic Scholarship Foundation) (2012&ndash;2019)
 
 Publications and talks
 ======
@@ -59,6 +59,10 @@ See <a href="https://tungerer.github.io/teaching/">here</a>
 Academic service
 ======
 
+Editorial work
+------
+* Guest Editor for a special issue on 'Creativity and extravagance through the empirical lens' [S. Hartmann & T. Ungerer, Eds. (forthcoming). <i>Linguistics Vanguard</i>.]
+
 Reviewing for journals
 ------
 * <i>Journal of Linguistics</i>
@@ -69,32 +73,29 @@ Reviewing for journals
 * <i>Language and Cognition</i>
 * <i>Functions of Language</i>
 * <i>Languages</i>
-* <i>Journal of Cognitive Science</i>
 * <i>Constructions and Frames</i>
 * <i>Constructions</i>
+* <i>Journal of Cognitive Science</i>
 * <i>Yearbook of Phraseology</i>
 * <i>CogniTextes</i>
 * <i>Arts & Communication</i>
 
 Reviewing for conferences
 ------
-* International Cognitive Linguistics Conference (ICLC, 2023, 2025)
-* Annual Meeting of the Cognitive Science Society (2024)
-* International Conference of the German Cognitive Linguistics Association (GCLA, 2024)
-* Concepts in Action: Representation, Learning, and Applications (CARLA, 2023)
+* International Cognitive Linguistics Conference (ICLC 2023, 2025)
+* Annual Meeting of the Cognitive Science Society (CogSci 2024, 2026)
+* International Conference of the German Cognitive Linguistics Association (GCLA 2024, 2026)
+* Concepts in Action: Representation, Learning, and Applications (CARLA 2023)
 
 Academic events
 ------
 * Co-organizer of theme session "Extravagance and creativity through the empirical lens" at the 17th International Cognitive Linguistics Conference, Buenos Aires, Argentina (July 2025)
 * Co-organizer of the CARLA 2023 workshop (Concepts in Action: Representation, Learning, and Applications) at Concordia University, Montreal (August 2023)
-* Co-organizer of the Linguistic Circle colloquium at the University of Edinburgh (2019&ndash;2022) 
-* Co-organizer of the Cognitive Linguistics Research Group at the University of Edinburgh (2019&ndash;2022)
+* Co-organizer of the Linguistic Circle colloquium at the University of Edinburgh (2019&ndash;2022)
 * Co-organizer of the Linguistics and English Language Postgraduate Conference at the University of Edinburgh (2019)
 
 Other
 ------
 * Emerging Scholar Representative of the International Cognitive Linguistics Association (ICLA, 2023&ndash;2025)
-* Member of the Societas Linguistica Europea (intermittently) 
-* Member of the Cognitive Science Society (intermittently)
-* Member of the German Cognitive Linguistics Association (intermittently)
+* (Intermittent) member of the Cognitive Science Society, Societas Linguistica Europea, and German Cognitive Linguistics Association
 
