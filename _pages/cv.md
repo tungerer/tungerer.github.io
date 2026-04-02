@@ -28,11 +28,9 @@ Education
    * Examiners: Holly Branigan, Martin Hilpert
 * <b>Research stay at Adele Goldberg's lab, Princeton University (Feb&ndash;April 2020)</b>
 * <b>MSc Linguistics, University of Edinburgh (2017&ndash;2018)</b>
-   * Thesis: "Priming as evidence of links between constructions: A study of aspects of the English resultative network"
    * Supervisor: Graeme Trousdale
 * <b>Undergraduate studies at the University of Cambridge (2014&ndash;15)</b>
 * <b>BA British Studies and Staatsexamen English/German, Leipzig University (2012&ndash;2019)</b>
-   * Thesis: "Mediopassives in English – A cognitive empirical approach"
    * Supervisor: Doris Schönefeld
 
 Grants and awards
@@ -97,5 +95,5 @@ Academic events
 Other
 ------
 * Emerging Scholar Representative of the International Cognitive Linguistics Association (ICLA, 2023&ndash;2025)
-* (Intermittent) member of the Cognitive Science Society, Societas Linguistica Europea, and German Cognitive Linguistics Association
+* (Intermittent) member of the Cognitive Science Society, Societas Linguistica Europea, the International Cognitive Linguistics Association, and the German Cognitive Linguistics Association
 

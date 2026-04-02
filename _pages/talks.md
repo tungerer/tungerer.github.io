@@ -13,6 +13,7 @@ redirect_from:
 Upcoming presentations
 ======
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., Hartmann, S., & Armstrong, B. C. (2026, April 10&ndash;13). The role of social biases in linguistic innovation: An artificial language learning study [Paper presentation]. EvoLang XIV. Plovdiv, Bulgaria.
+1. Hartmann, S., Stutz, L., & <b>Ungerer, T.</b> (2026, June 15&ndash;18). The life cycle of snowclones: A corpus-based study on the micro-diachrony of constructional idioms [Paper presentation].  23rd International Conference on English Historical Linguistics (ICEHL). Milan, Italy.
 1. <b>Ungerer, T.</b>, & Armstrong, B. C. (2026, August 31&ndash;September 2). Perceptions of linguistic creativity: An experimental comparison of novel metaphor and novel verbing [Paper presentation]. 11th International Conference of the German Cognitive Linguistics Association (GCLA). Bielefeld, Germany.
 
 Invited talks and workshops

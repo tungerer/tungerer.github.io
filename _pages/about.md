@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm a postdoc in Psychology of Language at the University of Toronto, where I work with <a href="http://blairarmstrong.net/">Dr. Blair C. Armstrong</a> as part of the <a href="https://www.utsc.utoronto.ca/labs/caplab/">Computation and Psycholinguistics Laboratory (CAP lab)</a>. 
-In my work, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language representation, processing, and learning.
+I am a linguist and cognitive scientist working at LMU Munich. In my research, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language use, processing, and learning.
 
 <b>----- Recent books -----</b>
 
@@ -24,8 +23,8 @@ In my work, I combine psycholinguistic experiments, corpus analyses, and computa
 
 <b>----- Current projects -----</b>
 <ul>
+  <li><b>Creative language processing</b>: How do language users comprehend grammatically novel expressions, such as <i>She timelined the project</i> (noun-to-verb conversion) or <i>He sneezed the napkin off the table</i> (valency coercion)? (see our new paper on coercion <a href="https://doi.org/10.1037/xlm0001568">here</a>)</li>
   <li><b>Early reading acquisition</b>: How can we combine experimental approaches and neural networks to optimize phonics instruction (i.e., how children are taught to map letters to sounds)?</li>
-  <li><b>Creative language comprehension</b>: How do language users understand grammatically novel expressions, such as <i>She timelined the project</i> (noun-to-verb conversion) or <i>He sneezed the napkin off the table</i> (valency coercion)? (see our new paper on coercion <a href="https://doi.org/10.1037/xlm0001568">here</a>)</li>
   <li><b>The evolution of linguistic innovations</b>: How do social desires to stand out from one's peers ("extravagance") or blend in with others ("conformity") give rise to language change?</li>
 </ul>
 
