@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a linguist and cognitive scientist working at LMU Munich. In my research, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language use, processing, and learning.
+I am a linguist and cognitive scientist working at the University of Munich (LMU). In my research, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language use, processing, and learning.
 
 <b>----- Recent books -----</b>
 

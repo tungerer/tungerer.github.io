@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tobias Ungerer"
 title_separator          : "-"
 name                     : &name "Tobias Ungerer"
-description              : &description "Postdoc in Psychology of Language at the University of Toronto"
+description              : &description "Acting Chair of Modern English Linguistics at LMU Munich"
 url                      : https://tungerer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tungerer/tungerer.github.io"
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=me00LWEAAAAJ"
-  email            : "tobias.ungerer@utoronto.ca"
+  email            : "tobias.ungerer@lmu.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
