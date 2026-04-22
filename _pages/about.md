@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a linguist working at the University of Munich (LMU). In my research, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language use, processing, and learning.
+I am a linguist <a href="https://www.sprachlit.lmu.de/anglistik/en/staff-members/contact-page/tobias-ungerer-f0f7198c.html">working at the University of Munich (LMU)</a>. In my research, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language use, processing, and learning.
 
 <b>----- Recent books -----</b>
 
