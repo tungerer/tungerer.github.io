@@ -10,7 +10,7 @@ redirect_from:
 
 I am a linguist <a href="https://www.sprachlit.lmu.de/anglistik/en/staff-members/contact-page/tobias-ungerer-f0f7198c.html">working at the University of Munich (LMU)</a>. In my research, I combine psycholinguistic experiments, corpus analyses, and computational modeling to investigate language use, processing, and learning.
 
-<b>----- Recent books -----</b>
+<b>----- Books -----</b>
 
 <p align="center">
 <img src="https://tungerer.github.io/images/Book_covers_2023.jpg" width="500" />
