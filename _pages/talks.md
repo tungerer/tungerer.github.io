@@ -12,7 +12,6 @@ redirect_from:
 
 Upcoming presentations
 ======
-1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., Hartmann, S., & Armstrong, B. C. (2026, April 10&ndash;13). The role of social biases in linguistic innovation: An artificial language learning study [Paper presentation]. EvoLang XIV. Plovdiv, Bulgaria.
 1. Hartmann, S., Stutz, L., & <b>Ungerer, T.</b> (2026, June 15&ndash;18). The life cycle of snowclones: A corpus-based study on the micro-diachrony of constructional idioms [Paper presentation].  23rd International Conference on English Historical Linguistics (ICEHL). Milan, Italy.
 1. <b>Ungerer, T.</b>, & Armstrong, B. C. (2026, August 31&ndash;September 2). Perceptions of linguistic creativity: An experimental comparison of novel metaphor and novel verbing [Paper presentation]. 11th International Conference of the German Cognitive Linguistics Association (GCLA). Bielefeld, Germany.
 
@@ -28,6 +27,7 @@ Conference theme sessions convened
 
 Conference presentations
 ======
+1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., Hartmann, S., & Armstrong, B. C. (2026, April 10&ndash;13). The role of social biases in linguistic innovation: An artificial language learning study [Paper presentation]. EvoLang XIV. Plovdiv, Bulgaria.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2026, February 10&ndash;11). Social meaning and grammar in artificial language learning experiments:  A case study on extravagance and conformity [Paper presentation]. Workshop on "Social Meaning and Grammar". Zurich, Switzerland.
 1. <b>Ungerer, T.</b>, & Hartmann, S. (2025, September 17&ndash;19). Contrastive is the new black: A cross-linguistic study of a “snowclone” in English, German, and Spanish [Paper presentation].  11th International Contrastive Linguistics Conference (ICLC). Prague, Czech Republic.
 1. <b>Ungerer, T.</b>, Matzinger, T., Pleyer, M., & Hartmann, S. (2025, September 1&ndash;3). Testing extravagance with experiments: An artificial language learning approach to constructional creativity [Paper presentation]. 2nd Annual Meeting of Language & Languages at the crossroads of Disciplines (LLcD). Lille, France.

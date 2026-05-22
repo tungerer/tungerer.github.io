@@ -24,7 +24,7 @@ I am a linguist <a href="https://www.sprachlit.lmu.de/anglistik/en/staff-members
 <b>----- Current projects -----</b>
 <ul>
   <li><b>Creative language processing</b>: How do language users comprehend grammatically novel expressions, such as <i>She timelined the project</i> (noun-to-verb conversion) or <i>He sneezed the napkin off the table</i> (valency coercion)? (see our new paper on coercion <a href="https://doi.org/10.1037/xlm0001568">here</a>)</li>
-  <li><b>Early reading acquisition</b>: How can we combine experimental approaches and neural networks to optimize phonics instruction (i.e., how children are taught to map letters to sounds)?</li>
+  <li><b>Early reading acquisition</b>: How can we combine experimental approaches and neural networks to optimize phonics instruction (i.e., how children are taught to map letters to sounds)?</li> (see our <a href="https://doi.org/10.1177/17456916261438004">recent paper</a> in <i>Perspectives on Psychological Science</i>)
   <li><b>The evolution of linguistic innovations</b>: How do social desires to stand out from one's peers ("extravagance") or blend in with others ("conformity") give rise to language change?</li>
 </ul>
 
